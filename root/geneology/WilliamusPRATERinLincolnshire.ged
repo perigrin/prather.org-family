@@ -1,0 +1,211 @@
+0 HEAD
+1 FILE Williamus PRATER, in Lincolnshire.ged
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME Lady Kathleen
+1 _EMAIL kathleen@enchantedfamily.com
+0 @I737@ INDI
+1 NAME Williamus /PRATER/ in Lincolnshire
+2 GIVN Williamus
+2 SURN PRATER
+2 NSFX in Lincolnshire
+2 NICK Pretor, Presto
+2 NPFX Reeve
+1 TITL Reeve
+1 SEX M
+1 BIRT
+2 DATE 1110
+2 PLAC Eaton Water, Wiltshire England
+1 OCCU Reeve in Lincolnshire
+2 NOTE Williamus was a Reeve in Lincolnshire. A Reeve is an official or "One who governs" for the establiished "Title Holder". The Title Holder is one who holds an area by the grace of the King. The Title Holder can be a Prince, Earl, Duke, Count, Visc
+3 CONC ount Baron, etc. A Reeve didn't have to live in the county he serves. He could serve several counties and/or Manors. 
+1 EVEN See Notes
+2 TYPE Research Notes
+2 NOTE William was a son and heir to Eaton Water, Wiltshire in a line of succession from the Prater family.  William was also holding manors in Linclonshire in 1159 and was a Reeve of Linclonshire at that time, his seat being Eaton Water, Wiltshire, En
+3 CONC gland. Also note that Reinbald de Presbyter (Prater) was the first Chancellor of England under King William in 1066. This Reinbald held the manor of Latton, Wiltshire, near Eaton Water, and many others across England, including Frome, Somerset
+3 CONC , which was located next to the Manor of Nunney. Nunney was later the site that Sir John Delamere, where he built his castle (Nunney Castle).
+3 CONT 
+3 CONT His lands descended to the first born son - William 
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F332@
+1 FAMC @F3831@
+0 @I1733@ INDI
+1 NAME Unknown /De LA MERE/
+2 GIVN Unknown
+2 SURN LA MERE
+1 SEX F
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F332@
+0 @I7413@ INDI
+1 NAME Guilliumus Williamus Johonnie /PRATER/
+2 GIVN Guilliumus Williamus Johonnie
+2 SURN PRATER
+2 NPFX Shire Reeve
+1 TITL Shire Reeve
+1 SEX M
+1 BIRT
+2 DATE 1020
+2 PLAC Everoux, Normandy
+1 DEAT
+2 DATE 1080
+2 PLAC Eaton Water, Wiltshire England
+1 OCCU Shire Reeve
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMC @F3832@
+1 FAMS @F3831@
+0 @I7416@ INDI
+1 NAME Unknown /De PRESBYTER/
+2 GIVN Unknown
+2 SURN PRESBYTER
+1 SEX M
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3832@
+0 @I7417@ INDI
+1 NAME UnKnown, Wife of /De PRESBYTER/
+2 GIVN UnKnown, Wife of
+2 SURN PRESBYTER
+1 SEX F
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3832@
+0 @I7418@ INDI
+1 NAME Reinbald /De PRESBYTER/ of England
+2 GIVN Reinbald
+2 SURN PRESBYTER
+2 NSFX of England
+2 NPFX Chancellor
+1 TITL Chancellor
+1 SEX M
+1 OCCU first Chancellor of England under William the Conqueror
+1 OCCU Priest
+1 FAMC @F3832@
+0 @I7414@ INDI
+1 NAME Unknown /YSCITHEOR/ of Powys
+2 GIVN Unknown
+2 SURN YSCITHEOR
+2 NSFX of Powys
+1 SEX F
+1 BIRT
+2 DATE 1066
+2 PLAC Powys Castle, Powys, Wales 
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMC @F3833@
+1 FAMS @F3831@
+0 @I7419@ INDI
+1 NAME Brockwell /YSCYTHROG/ of Powys
+2 GIVN Brockwell
+2 SURN YSCYTHROG
+2 NSFX of Powys
+2 NPFX Prince
+1 TITL Prince
+1 SEX M
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMC @F3834@
+1 FAMS @F3833@
+0 @I7421@ INDI
+1 NAME Unknown /YSCYTHROG/
+2 GIVN Unknown
+2 SURN YSCYTHROG
+1 SEX M
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMC @F3835@
+1 FAMS @F3834@
+0 @I7423@ INDI
+1 NAME Unknown /YSCYTHROG/
+2 GIVN Unknown
+2 SURN YSCYTHROG
+1 SEX M
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3835@
+0 @I7424@ INDI
+1 NAME UnKnown, Wife of /YSCYTHROG/
+2 GIVN UnKnown, Wife of
+2 SURN YSCYTHROG
+1 SEX F
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3835@
+0 @I7425@ INDI
+1 NAME Brockfeil /YSCYTHROG/ of Powys
+2 GIVN Brockfeil
+2 SURN YSCYTHROG
+2 NSFX of Powys
+2 NICK Savior of Wales and Chosen of God
+2 NPFX Prince
+1 TITL Prince
+1 SEX M
+1 DEAT
+2 DATE 662
+1 FAMC @F3835@
+0 @I7422@ INDI
+1 NAME UnKnown, Wife of /YSCYTHROG/
+2 GIVN UnKnown, Wife of
+2 SURN YSCYTHROG
+1 SEX F
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3834@
+0 @I7420@ INDI
+1 NAME UnKnown, Wife of /YSCYTHROG/
+2 GIVN UnKnown, Wife of
+2 SURN YSCYTHROG
+1 SEX F
+1 EVEN Great GrandParent
+2 TYPE Direct Line to Lady Kathleen
+1 FAMS @F3833@
+0 @I7415@ INDI
+1 NAME Richardus /PRATER/ in Lincolnshire
+2 GIVN Richardus
+2 SURN PRATER
+2 NSFX in Lincolnshire
+2 NPFX Reeve
+1 TITL Reeve
+1 SEX M
+1 BIRT
+2 DATE 1098
+2 PLAC Eaton Water, Wiltshire England
+1 DEAT
+2 PLAC Lincolnshire, England
+1 OCCU Reeve in Lincolnshire
+2 NOTE Richardus was a Reeve in Lincolnshire. We also have records which state that Williamus Prater was also a Reeve in that shire in 1159. It is likely that they served alternate duty or possibly served different sections of the county, because the c
+3 CONC ounty was divided among different "Title Holders". During this time in history the county of Lincoln went through many disputes.
+1 FAMC @F3831@
+0 @F332@ FAM
+1 HUSB @I737@
+1 WIFE @I1733@
+0 @F3831@ FAM
+1 HUSB @I7413@
+1 WIFE @I7414@
+1 CHIL @I737@
+1 CHIL @I7415@
+0 @F3832@ FAM
+1 HUSB @I7416@
+1 WIFE @I7417@
+1 CHIL @I7413@
+1 CHIL @I7418@
+0 @F3833@ FAM
+1 HUSB @I7419@
+1 WIFE @I7420@
+1 CHIL @I7414@
+0 @F3834@ FAM
+1 HUSB @I7421@
+1 WIFE @I7422@
+1 CHIL @I7419@
+0 @F3835@ FAM
+1 HUSB @I7423@
+1 WIFE @I7424@
+1 CHIL @I7421@
+1 CHIL @I7425@
+0 TRLR

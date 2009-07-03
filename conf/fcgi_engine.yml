@@ -1,0 +1,5 @@
+- name:       "prather.org"
+  scriptname: "script/pratherorg_fastcgi.pl"
+  nproc:       3
+  pidfile:    "/tmp/prather.org.pid"
+  socket:     "/tmp/prather.org.socket"

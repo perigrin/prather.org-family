@@ -1,0 +1,4608 @@
+0 HEAD
+1   SOUR Legacy
+2     VERS 4.0
+2     NAME Legacy (R)
+2     CORP Millennia Corp.
+3       ADDR PO Box 1800
+4         CONT Duvall, WA 98019
+1   DEST Legacy
+1   DATE 2 Jan 2005
+1   SUBM S0
+1   FILE GEDCOM.ged
+1   GEDC
+2     VERS
+2     FORM LINEAGE_LINKED
+1   CHAR ANSI
+
+0 @I1@ INDI
+1   NAME John /Graves/
+2     GIVN John
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1611-1631
+2     PLAC Of, Lamborne, Berkshire, England
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     DATE 2 Jun 1640
+2     PLAC Lynn, , Essex, Mass
+1   AFN V4QW-MF
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:15
+1   FAMC @F1@
+
+0 @I73@ INDI
+1   NAME Ann /Odell/
+2     GIVN Ann
+2     SURN Odell
+1   SEX F
+1   BIRT
+2     DATE Abt 1732
+2     PLAC ., , MD.
+1   DEAT Y
+1   CHAN
+2     DATE 28 Jun 2002
+3       TIME 09:56
+1   FAMS @F21@
+1   FAMC @F18@
+
+0 @I92@ INDI
+1   NAME Reginald /Prather/
+2     GIVN Reginald
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1753
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE 1805
+2     PLAC Mason, KY.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F23@
+1   FAMC @F21@
+
+0 @I93@ INDI
+1   NAME Jonathan /Prather/
+2     GIVN Jonathan
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1775
+2     PLAC Virginia
+1   DEAT Y
+1   CHAN
+2     DATE 14 Apr 2004
+3       TIME 12:47
+1   FAMS @F24@
+1   FAMC @F21@
+
+0 @I94@ INDI
+1   NAME Jeremiah /Prather/
+2     GIVN Jeremiah
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1757
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE Abt 1812
+2     PLAC Nicholas, KY.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F25@
+1   FAMC @F21@
+
+0 @I95@ INDI
+1   NAME James /Prather/
+2     GIVN James
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1759
+1   DEAT
+2     DATE 1819
+2     PLAC ., Bourbon, KY.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F26@
+1   FAMC @F21@
+
+0 @I96@ INDI
+1   NAME John Phillip /Prather/
+2     GIVN John Phillip
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1763
+2     PLAC ., , MD.
+1   DEAT
+2     DATE 1804
+2     PLAC ., Fleming, KY.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F38@
+1   FAMC @F21@
+
+0 @I66@ INDI
+1   NAME Jane /Prather/
+2     GIVN Jane
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1664
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE Abt 1680
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+1   FAMS @F103@
+1   FAMC @F13@
+
+0 @I85@ INDI
+1   NAME Henry /Odell/
+2     GIVN Henry
+2     SURN Odell
+1   SEX M
+1   BIRT
+2     DATE 15 Apr 1694
+2     PLAC ., Anne Arundel, MD.
+1   DEAT
+2     DATE Bef 10 Jul 1739
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 09:59
+1   FAMS @F54@
+1   FAMC @F20@
+
+0 @I106@ INDI
+1   NAME Eleanor /THARP/
+2     GIVN Eleanor
+2     SURN THARP
+1   SEX F
+1   BIRT
+2     DATE 1766
+1   DEAT
+2     DATE After 1850
+2     PLAC Vermillion, Edgar, Ill.
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:49
+1   FAMS @F26@
+
+0 @I197@ INDI
+1   NAME Mary /McKay/
+2     GIVN Mary
+2     SURN McKay
+1   SEX F
+1   BIRT
+2     DATE 1606
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F101@
+
+0 @I99@ INDI
+1   NAME Josiah /Prather/
+2     GIVN Josiah
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 21 Dec 1727
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE 1755
+2     PLAC ., Frederick, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F41@
+1   FAMS @F42@
+1   FAMC @F22@
+
+0 @I100@ INDI
+1   NAME Martha /Prather/
+2     GIVN Martha
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 20 Apr 1730
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE After 1790
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F43@
+1   FAMS @F44@
+1   FAMC @F22@
+
+0 @I91@ INDI
+1   NAME Jeremiah /Prather/
+2     GIVN Jeremiah
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 21 Jul 1732
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE Abt 1807
+2     PLAC ., Fayette, KY.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F21@
+1   FAMC @F22@
+
+0 @I105@ INDI
+1   NAME Rachel /Prather/
+2     GIVN Rachel
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 6 Jan 1751
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F22@
+
+0 @I103@ INDI
+1   NAME Elizabeth /Prather/
+2     GIVN Elizabeth
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 23 Sep 1740
+2     PLAC ., Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 31 May 2002
+3       TIME 16:35
+1   FAMC @F22@
+
+0 @I101@ INDI
+1   NAME Aaron /Prather/
+2     GIVN Aaron
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1735
+2     PLAC ., Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F22@
+
+0 @I19@ INDI
+1   NAME Thomas /Sprigg/
+2     GIVN Thomas
+2     SURN Sprigg
+2     NPFX Cpt
+1   SEX M
+1   BIRT
+2     DATE 1628
+2     PLAC England
+1   DEAT
+2     DATE 29 Dec 1704
+2     PLAC Maryland
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F6@
+1   FAMS @F5@
+1   FAMC @F7@
+
+0 @I26@ INDI
+1   NAME Eleanor /Nuthall/
+2     GIVN Eleanor
+2     SURN Nuthall
+1   SEX F
+1   BIRT
+2     DATE 1645
+2     PLAC Maryland
+1   DEAT
+2     DATE 1694
+2     PLAC Maryland
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F6@
+1   FAMC @F8@
+
+0 @I104@ INDI
+1   NAME Zachariah /Prather/
+2     GIVN Zachariah
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 5 May 1749
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F84@
+1   FAMC @F22@
+
+0 @I68@ INDI
+1   NAME George /Prather/
+2     GIVN George
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1668
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 29 Jul 1678
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+1   FAMS @F105@
+1   FAMC @F13@
+
+0 @I102@ INDI
+1   NAME Eleanor /Prather/
+2     GIVN Eleanor
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 2 Apr 1738
+2     PLAC Queen Anne Parish, Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:26
+1   FAMS @F45@
+1   FAMC @F22@
+
+0 @I49@ INDI
+1   NAME Stephen /Yoakley/
+2     GIVN Stephen
+2     SURN Yoakley
+1   SEX M
+1   BIRT
+2     PLAC Of ., Charles, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F9@
+
+0 @I201@ INDI
+1   NAME Richard /Prather/
+2     GIVN Richard
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1635
+2     PLAC Prob. Newport News, , VA.
+1   DEAT
+2     DATE 7 Feb 1661
+2     PLAC ., Rappahannock, VA.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F101@
+
+0 @I198@ INDI
+1   NAME John /Prather/
+2     GIVN John
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1629
+2     PLAC Elizabeth Citties, Norfolk, VA.
+1   DEAT
+2     DATE Abt 1664
+2     PLAC Prob. , Rappahannock, VA.
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:27
+1   FAMC @F101@
+
+0 @I202@ INDI
+1   NAME Thomas /Prater/
+2     GIVN Thomas
+2     SURN Prater
+1   SEX M
+1   BIRT
+2     DATE Abt 1573
+2     PLAC Stanton St. Bernard, Wiltshire, Eng.
+1   CHR
+2     DATE 6 May 1573
+2     PLAC St. Bernard's Par., co.Wilts, ENG
+1   DEAT
+2     PLAC Stanton St. Bernard, Wiltshire, Eng.
+1   EVEN
+2     TYPE Alt. Birth
+2     DATE 6 May 1573
+2     PLAC Stanton St. Bernard, Wiltshire, Eng.
+1   EVEN
+2     TYPE Alt. Death
+2     DATE 1628
+2     PLAC Eaton Water, Wiltshire, Eng.
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:16
+1   FAMS @F108@
+1   FAMC @F109@
+
+0 @I203@ INDI
+1   NAME Margaret /Quintyne/
+2     GIVN Margaret
+2     SURN Quintyne
+1   SEX F
+1   BIRT
+2     DATE 1578
+2     PLAC Nushton Manor, Wiltshire, Eng.
+1   DEAT
+2     DATE 1628
+2     PLAC Wiltshire, England
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F108@
+1   FAMC @F110@
+
+0 @I199@ INDI
+1   NAME William /Prather/
+2     GIVN William
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1632
+2     PLAC Elizabeth Citties, Norfolk, VA.
+1   DEAT
+2     PLAC Moved To Maryland And Then To England
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F101@
+
+0 @I51@ INDI
+1   NAME Eleanor /Prather/
+2     GIVN Eleanor
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1700
+2     PLAC ., , MD.
+1   DEAT Y
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F14@
+1   FAMC @F10@
+
+0 @I200@ INDI
+1   NAME Samuel /Prather/
+2     GIVN Samuel
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1634
+2     PLAC Elizabeth Citties, Norfolk, VA.
+1   DEAT
+2     DATE 1679
+2     PLAC ., Dorchester, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F101@
+
+0 @I56@ INDI
+1   NAME Rachel /Prather/
+2     GIVN Rachel
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1708
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE 1763
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMS @F95@
+1   FAMS @F96@
+1   FAMC @F10@
+
+0 @I59@ INDI
+1   NAME Anne /Prather/
+2     GIVN Anne
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 1714
+2     PLAC ., Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F99@
+1   FAMC @F10@
+
+0 @I60@ INDI
+1   NAME Mary /Prather/
+2     GIVN Mary
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 1716
+2     PLAC ., Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F100@
+1   FAMC @F10@
+
+0 @I58@ INDI
+1   NAME Elizabeth /Prather/
+2     GIVN Elizabeth
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 1712
+2     PLAC ., Prince George, MD.
+1   DEAT Y
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F98@
+1   FAMC @F10@
+
+0 @I54@ INDI
+1   NAME Philomen Gittings /Prather/
+2     GIVN Philomen Gittings
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1707
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE After 1767
+2     PLAC ., Laurens, S.C.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F92@
+1   FAMS @F93@
+1   FAMS @F94@
+1   FAMC @F10@
+
+0 @I27@ INDI
+1   NAME Martha /Sprigg/
+2     GIVN Martha
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1677
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 13 Nov 1742
+2     PLAC Charles, , MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F9@
+1   FAMS @F10@
+1   FAMC @F6@
+
+0 @I53@ INDI
+1   NAME John Smith /Prather/
+2     GIVN John Smith
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1705
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE 1765
+2     PLAC Bladensburg, Prince George, MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F22@
+1   FAMC @F10@
+
+0 @I98@ INDI
+1   NAME Elizabeth /Nuthall/
+2     GIVN Elizabeth
+2     SURN Nuthall
+1   SEX F
+1   BIRT
+2     DATE Abt 1710
+2     PLAC Maryland
+1   DEAT
+2     DATE After 1776
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 28 Jun 2002
+3       TIME 09:49
+1   FAMS @F22@
+1   FAMC @F40@
+
+0 @I57@ INDI
+1   NAME Aaron Allen /Prather/
+2     GIVN Aaron Allen
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 10 Oct 1710
+2     PLAC ., Prince George, MD.
+1   DEAT
+2     DATE 27 Nov 1797
+2     PLAC ., Frederick, MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F97@
+1   FAMC @F10@
+
+0 @I69@ INDI
+1   NAME William Nathan /Prather/
+2     GIVN William Nathan
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1670
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 1747
+2     PLAC ., Calvert, MD.
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+1   FAMS @F106@
+1   FAMC @F13@
+
+0 @I204@ INDI
+1   NAME Alice /Prater/
+2     GIVN Alice
+2     SURN Prater
+1   SEX F
+1   BIRT
+2     DATE 18 Feb 1600
+2     PLAC Cliffe Papard, Wiltshire, Eng.
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F108@
+
+0 @I205@ INDI
+1   NAME Richard /Prater/
+2     GIVN Richard
+2     SURN Prater
+1   SEX M
+1   BIRT
+2     DATE 7 Mar 1607
+2     PLAC Wiltshire, Eng.
+1   DEAT Y
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:22
+1   FAMC @F108@
+
+0 @I50@ INDI
+1   NAME Thomas Mackay /Prather/
+2     GIVN Thomas Mackay
+2     SURN Prather
+2     NPFX Col
+1   SEX M
+1   BIRT
+2     DATE Abt 1673
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 1712
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+1   FAMS @F10@
+1   FAMS @F11@
+1   FAMS @F12@
+1   FAMC @F13@
+
+0 @I70@ INDI
+1   NAME John /Prather/
+2     GIVN John
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 1676
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 20 Dec 1718
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+1   FAMS @F107@
+1   FAMC @F13@
+
+0 @I196@ INDI
+1   NAME Thomas /Prater/
+2     GIVN Thomas
+2     SURN Prater
+1   SEX M
+1   BIRT
+2     DATE 26 Dec 1604
+2     PLAC Near Eaton Water, Wiltshire, England
+1   DEAT
+2     DATE Abt 1666
+2     PLAC Near Elizabeth Citties, Norfolk, VA.
+1   CHAN
+2     DATE 16 Jun 2002
+3       TIME 16:17
+1   FAMS @F101@
+1   FAMC @F108@
+
+0 @I141@ INDI
+1   NAME Elizabeth /Brewer/
+2     GIVN Elizabeth
+2     SURN Brewer
+1   SEX F
+1   BIRT
+2     DATE 26 Oct 1690
+2     PLAC Annapolis, MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 09:09
+1   FAMS @F51@
+1   FAMC @F49@
+
+0 @I140@ INDI
+1   NAME John /Brewer/
+2     GIVN John
+2     SURN Brewer
+1   SEX M
+1   BIRT
+2     DATE 1660
+2     PLAC Annapolis, MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 09:10
+1   FAMS @F49@
+
+0 @I142@ INDI
+1   NAME John /Brewer/
+2     GIVN John
+2     SURN Brewer
+1   SEX M
+1   BIRT
+2     DATE 20 Aug 1686
+2     PLAC ANN ARUNDEL CO, MD
+1   DEAT
+2     DATE 5 May 1730
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:49
+1   FAMS @F52@
+1   FAMC @F49@
+
+0 @I143@ INDI
+1   NAME Joseph /Brewer/
+2     GIVN Joseph
+2     SURN Brewer
+1   SEX M
+1   BIRT
+2     DATE 20 Aug 1688
+1   DEAT
+2     DATE 23 Dec 1718
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:08
+1   FAMS @F53@
+1   FAMC @F49@
+
+0 @I83@ INDI
+1   NAME Thomas /Odell/
+2     GIVN Thomas
+2     SURN Odell
+1   SEX M
+1   BIRT
+2     DATE 1655
+2     PLAC England
+1   DEAT
+2     DATE Abt Mar 1721
+2     PLAC ANN ARUNDEL CO, MD
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:01
+1   FAMS @F20@
+
+0 @I86@ INDI
+1   NAME Thomas /Odell/
+2     GIVN Thomas
+2     SURN Odell
+1   SEX M
+1   BIRT
+2     DATE 7 Jan 1692
+2     PLAC Anne Arundel Co; MD
+1   DEAT
+2     DATE After 1763
+2     PLAC Berkeley Co;South Carolina
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 13:47
+1   FAMS @F48@
+1   FAMC @F20@
+
+0 @I76@ INDI
+1   NAME Margaret /Beall/
+2     GIVN Margaret
+2     SURN Beall
+1   SEX F
+1   BIRT
+2     DATE 1694
+2     PLAC Prince George's Co;MD
+1   DEAT
+2     DATE After 1755
+2     PLAC Berkeley Co; South Carolina
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 13:47
+1   FAMS @F48@
+1   FAMC @F19@
+
+0 @I74@ INDI
+1   NAME James /Beall/
+2     GIVN James
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE Abt 1651
+2     PLAC St. Andrews Parish, Fife, SCT
+1   DEAT
+2     DATE 1725
+2     PLAC Prince George's Co., MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:16
+1   FAMS @F19@
+1   FAMC @F46@
+
+0 @I75@ INDI
+1   NAME Sarah /PEERCE/
+2     GIVN Sarah
+2     SURN PEERCE
+1   SEX F
+1   BIRT
+2     DATE Abt 1675
+2     PLAC Calvert Co;MD
+1   DEAT
+2     DATE Abt 1725
+2     PLAC Prince George's Co;MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:37
+1   FAMS @F19@
+1   FAMC @F47@
+
+0 @I138@ INDI
+1   NAME John /Pearce/
+2     GIVN John
+2     SURN Pearce
+1   SEX M
+1   BIRT
+2     DATE 1768
+2     PLAC Md
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:17
+1   FAMS @F47@
+
+0 @I20@ INDI
+1   NAME Sarah /Sprigg/
+2     GIVN Sarah
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1658
+2     PLAC Anne Arundel Co., Md
+1   DEAT
+2     DATE 1736
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:18
+1   FAMS @F47@
+1   FAMS @F77@
+1   FAMC @F5@
+
+0 @I6@ INDI
+1   NAME Catherine /Graves/
+2     GIVN Catherine
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1621
+2     PLAC Ireland
+1   DEAT
+2     DATE 17 Aug 1661
+2     PLAC Calvert Co;MD
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F5@
+1   FAMC @F1@
+
+0 @I133@ INDI
+1   NAME Alexander /Beall/
+2     GIVN Alexander
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1621
+2     PLAC St.Andrew's, Fifeshire, England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:36
+1   FAMS @F46@
+1   FAMC @F80@
+
+0 @I134@ INDI
+1   NAME Margaret /Ramsey/
+2     GIVN Margaret
+2     SURN Ramsey
+1   SEX F
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:25
+1   FAMS @F46@
+
+0 @I87@ INDI
+1   NAME Elizabeth /Odell/
+2     GIVN Elizabeth
+2     SURN Odell
+1   SEX F
+1   BIRT
+2     DATE 6 Jun 1694
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:02
+1   FAMC @F20@
+
+0 @I88@ INDI
+1   NAME Ann /Odell/
+2     GIVN Ann
+2     SURN Odell
+1   SEX F
+1   BIRT
+2     DATE 1701
+1   DEAT
+2     DATE Sep 1702
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:02
+1   FAMC @F20@
+
+0 @I89@ INDI
+1   NAME Ann /Odell/
+2     GIVN Ann
+2     SURN Odell
+1   SEX F
+1   BIRT
+2     DATE 18 Nov 1703
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:02
+1   FAMS @F55@
+1   FAMC @F20@
+
+0 @I72@ INDI
+1   NAME Reginald /Odell/
+2     GIVN Reginald
+2     SURN Odell
+1   SEX M
+1   BIRT
+2     DATE 24 Oct 1705
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:19
+1   FAMS @F18@
+1   FAMC @F20@
+
+0 @I71@ INDI
+1   NAME Sarah /Beall/
+2     GIVN Sarah
+2     SURN Beall
+1   SEX F
+1   BIRT
+2     DATE Apr 1713
+2     PLAC Prince George's Co;MD
+1   DEAT
+2     DATE Bef 1769
+2     PLAC Frederick Co;MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:21
+1   FAMS @F18@
+1   FAMS @F15@
+1   FAMC @F19@
+
+0 @I90@ INDI
+1   NAME Sarah /Odell/
+2     GIVN Sarah
+2     SURN Odell
+1   SEX F
+1   BIRT
+2     DATE 10 Apr 1709
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:04
+1   FAMS @F56@
+1   FAMC @F20@
+
+0 @I52@ INDI
+1   NAME Thomas Sprigg /Prather/
+2     GIVN Thomas Sprigg
+2     SURN Prather
+2     NPFX Col
+1   SEX M
+1   BIRT
+2     DATE 1704
+2     PLAC Frederick , MD
+1   DEAT
+2     DATE 24 Jul 1785
+2     PLAC Washington Co, MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:24
+1   FAMS @F15@
+1   FAMS @F16@
+1   FAMS @F17@
+1   FAMC @F10@
+
+0 @I77@ INDI
+1   NAME John /Beall/
+2     GIVN John
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1700
+2     PLAC Prince George's Co;MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:10
+1   FAMS @F74@
+1   FAMC @F19@
+
+0 @I78@ INDI
+1   NAME Nathaniel /Beall/
+2     GIVN Nathaniel
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1699
+2     PLAC Prince George's Co;MD
+1   DEAT
+2     DATE After 1775
+2     PLAC Md
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:17
+1   FAMS @F75@
+1   FAMC @F19@
+
+0 @I80@ INDI
+1   NAME Robert /Beall/
+2     GIVN Robert
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 29 Nov 1717
+2     PLAC Prince George's Co;MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:22
+1   FAMC @F19@
+
+0 @I81@ INDI
+1   NAME Joseph /Beall/
+2     GIVN Joseph
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1719
+2     PLAC Prince George's Co;MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:22
+1   FAMS @F45@
+1   FAMC @F19@
+
+0 @I82@ INDI
+1   NAME Zephaninah /Beall/
+2     GIVN Zephaninah
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1722
+2     PLAC Prince George's Co;MD
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:35
+1   FAMC @F19@
+
+0 @I135@ INDI
+1   NAME Alexander II /Beall/
+2     GIVN Alexander II
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 22 Aug 1649
+2     PLAC St.Andrew's, Fifeshire, England
+1   CHR
+2     DATE 11 Oct 1649
+2     PLAC Parish Crch, St.Andrew's, Fifeshire, England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:37
+1   FAMS @F81@
+1   FAMC @F46@
+
+0 @I136@ INDI
+1   NAME William /Beall/
+2     GIVN William
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1647
+2     PLAC St.Andrew's, Fifeshire, England
+1   CHR
+2     DATE 2 Aug 1647
+2     PLAC Parish Crch, St.Andrew's, Fifeshire, England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:42
+1   FAMS @F82@
+1   FAMC @F46@
+
+0 @I137@ INDI
+1   NAME Andrew /Beall/
+2     GIVN Andrew
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE 1655
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:44
+1   FAMC @F46@
+
+0 @I187@ INDI
+1   NAME William /Beall/
+2     GIVN William
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE Abt 1590
+2     PLAC Fifeshire, England
+1   DEAT
+2     PLAC Fifeshire, England
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:46
+1   FAMS @F80@
+
+0 @I188@ INDI
+1   NAME William II /Beall/
+2     GIVN William II
+2     SURN Beall
+1   SEX M
+1   BIRT
+2     DATE Abt 1620
+2     PLAC Fifeshire, England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:47
+1   FAMS @F83@
+1   FAMC @F80@
+
+0 @I28@ INDI
+1   NAME John /Sprigg/
+2     GIVN John
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1671
+1   DEAT
+2     DATE 1700
+2     PLAC Calvert Co, Md
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:59
+1   FAMC @F6@
+
+0 @I29@ INDI
+1   NAME Elias /Sprigg/
+2     GIVN Elias
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1673
+2     PLAC Northampton , Prince Georges Co, MD
+1   DEAT
+2     DATE 1704
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:00
+1   FAMC @F6@
+
+0 @I31@ INDI
+1   NAME Eleanor /Sprigg/
+2     GIVN Eleanor
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1675
+2     PLAC Calvert Co, Md
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:01
+1   FAMS @F40@
+1   FAMS @F85@
+1   FAMC @F6@
+
+0 @I46@ INDI
+1   NAME John IV /Nuthall/
+2     GIVN John IV
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE 5 Mar 1645
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:02
+1   FAMS @F40@
+1   FAMC @F8@
+
+0 @I189@ INDI
+1   NAME Thomas /Hilleary/
+2     GIVN Thomas
+2     SURN Hilleary
+1   SEX M
+1   BIRT
+2     DATE 1697
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:02
+1   FAMS @F85@
+
+0 @I32@ INDI
+1   NAME Oliver /Sprigg/
+2     GIVN Oliver
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE Abt 1678
+2     PLAC Anne Arundel Co, Md
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:03
+1   FAMC @F6@
+
+0 @I33@ INDI
+1   NAME Ann /Sprigg/
+2     GIVN Ann
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1679
+2     PLAC Northampton , Prince Georges Co, MD
+1   DEAT
+2     DATE 8 Dec 1720
+2     PLAC Md
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:03
+1   FAMC @F6@
+
+0 @I34@ INDI
+1   NAME Elizabeth /Sprigg/
+2     GIVN Elizabeth
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1679
+1   DEAT
+2     DATE 4 Nov 1713
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:04
+1   FAMS @F87@
+1   FAMC @F6@
+
+0 @I44@ INDI
+1   NAME John III /Nuthall/
+2     GIVN John III
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE 1617
+2     PLAC London, Middlesex, England
+1   DEAT
+2     DATE Oct 1667
+2     PLAC St.Mary's Co; MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:05
+1   FAMS @F8@
+1   FAMC @F88@
+
+0 @I45@ INDI
+1   NAME Elizabeth /Bacon/
+2     GIVN Elizabeth
+2     SURN Bacon
+1   SEX F
+1   BIRT
+2     DATE 1609
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:06
+1   FAMS @F8@
+1   FAMC @F89@
+
+0 @I47@ INDI
+1   NAME James /Nuthall/
+2     GIVN James
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE Abt 1650
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:06
+1   FAMC @F8@
+
+0 @I48@ INDI
+1   NAME Elias /Nuthall/
+2     GIVN Elias
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE Abt 1652
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:07
+1   FAMC @F8@
+
+0 @I190@ INDI
+1   NAME John II /Nuthall/
+2     GIVN John II
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE 1577
+2     PLAC Cottonhall, England
+1   DEAT
+2     DATE After 1644
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:07
+1   FAMS @F88@
+1   FAMC @F90@
+
+0 @I191@ INDI
+1   NAME Mary /Hyde/
+2     GIVN Mary
+2     SURN Hyde
+1   SEX F
+1   BIRT
+2     DATE Abt 1586
+2     PLAC Stockport, England
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:08
+1   FAMS @F88@
+
+0 @I194@ INDI
+1   NAME John /Nuthall/
+2     GIVN John
+2     SURN Nuthall
+1   SEX M
+1   BIRT
+2     DATE Abt 1552
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:08
+1   FAMS @F90@
+1   FAMC @F91@
+
+0 @I195@ INDI
+1   NAME Jane /Newport/
+2     GIVN Jane
+2     SURN Newport
+1   SEX F
+1   BIRT
+2     DATE Abt 1554
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:08
+1   FAMS @F90@
+
+0 @I192@ INDI
+1   NAME Nathaniel /Bacon/
+2     GIVN Nathaniel
+2     SURN Bacon
+1   SEX M
+1   BIRT
+2     PLAC England
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:10
+1   FAMS @F89@
+
+0 @I193@ INDI
+1   NAME Elizabeth /KINSGMILL/
+2     GIVN Elizabeth
+2     SURN KINSGMILL
+1   SEX F
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:10
+1   FAMS @F89@
+
+0 @I139@ INDI
+1   NAME John /Pearce/
+2     GIVN John
+2     SURN Pearce
+1   SEX M
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:13
+1   FAMC @F47@
+
+0 @I186@ INDI
+1   NAME Enoch /Coombs/
+2     GIVN Enoch
+2     SURN Coombs
+1   SEX M
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:13
+1   FAMS @F77@
+
+0 @I22@ INDI
+1   NAME Nathanial /Sprigg/
+2     GIVN Nathanial
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE Abt Dec 1650
+1   DEAT Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:14
+1   FAMC @F5@
+
+0 @I41@ INDI
+1   NAME Catherine /Sprigg/
+2     GIVN Catherine
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE Abt 1640
+1   DEAT Y
+1   CHAN
+2     DATE 30 May 2002
+3       TIME 22:44
+1   FAMC @F7@
+
+0 @I21@ INDI
+1   NAME Nathaniel /Sprigg/
+2     GIVN Nathaniel
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1651-1652
+1   DEAT Y
+1   CHAN
+2     DATE 30 May 2002
+3       TIME 22:44
+1   FAMC @F5@
+
+0 @I23@ INDI
+1   NAME Samuel /Sprigg/
+2     GIVN Samuel
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1652-1653
+1   DEAT Y
+1   CHAN
+2     DATE 30 May 2002
+3       TIME 22:44
+1   FAMC @F5@
+
+0 @I107@ INDI
+1   NAME Jeremiah /Prather/
+2     GIVN Jeremiah
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:47
+1   FAMC @F26@
+
+0 @I108@ INDI
+1   NAME Jonathan /Prather/
+2     GIVN Jonathan
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:49
+1   FAMC @F26@
+
+0 @I109@ INDI
+1   NAME John /Prather/
+2     GIVN John
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:49
+1   FAMC @F26@
+
+0 @I110@ INDI
+1   NAME Jacob /Prather/
+2     GIVN Jacob
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:49
+1   FAMC @F26@
+
+0 @I111@ INDI
+1   NAME Basil Pitts /Prather/
+2     GIVN Basil Pitts
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 11 Feb 1793
+2     PLAC Rowan Co., KY
+1   DEAT
+2     DATE 25 Dec 1853
+2     PLAC Nicholas Co., KY
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:59
+1   FAMS @F27@
+1   FAMC @F26@
+
+0 @I112@ INDI
+1   NAME Joseph /Prather/
+2     GIVN Joseph
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Between 1794-1796
+2     PLAC Bourbon Co., KY
+1   DEAT
+2     PLAC Knox Co., Indiana
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:36
+1   FAMS @F28@
+1   FAMC @F26@
+
+0 @I118@ INDI
+1   NAME Hethelda /IRWIN/
+2     GIVN Hethelda
+2     SURN IRWIN
+1   SEX F
+1   BIRT
+2     DATE 1800
+2     PLAC MD or KY
+1   DEAT
+2     DATE After 1870
+2     PLAC Knox Co., KY
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:37
+1   FAMS @F28@
+
+0 @I119@ INDI
+1   NAME Kitta Ann E. Prather /Prather/
+2     GIVN Kitta Ann E. Prather
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 27 Mar 1822
+2     PLAC Bourbon Co., KY
+1   DEAT
+2     DATE 14 Nov 1893
+2     PLAC Knox Co., Indiana
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:38
+1   FAMS @F29@
+1   FAMC @F28@
+
+0 @I120@ INDI
+1   NAME Thomas Isaac /Prather/
+2     GIVN Thomas Isaac
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1830
+2     PLAC Bourbon Co., KY
+1   DEAT
+2     DATE Abt 1867
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:39
+1   FAMS @F30@
+1   FAMC @F28@
+
+0 @I121@ INDI
+1   NAME Amanda /Prather/
+2     GIVN Amanda
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1834
+2     PLAC Knox Co., Indiana
+1   DEAT Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:40
+1   FAMS @F31@
+1   FAMC @F28@
+
+0 @I122@ INDI
+1   NAME Sion /Prather/
+2     GIVN Sion
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1837
+2     PLAC Knox Co., IN
+1   DEAT
+2     DATE Abt 1857
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:41
+1   FAMC @F28@
+
+0 @I123@ INDI
+1   NAME Lydia E. /Prather/
+2     GIVN Lydia E.
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1841
+2     PLAC Knox Co., IN
+1   DEAT
+2     DATE 8 Feb 1844
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:42
+1   FAMC @F28@
+
+0 @I124@ INDI
+1   NAME Minerva Jane /Prather/
+2     GIVN Minerva Jane
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE Abt 1844
+2     PLAC Knox Co., IN
+1   DEAT
+2     DATE Abt 1874
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:42
+1   FAMS @F32@
+1   FAMC @F28@
+
+0 @I125@ INDI
+1   NAME John C. [P.] /Prather/
+2     GIVN John C. [P.]
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1828
+2     PLAC Bourbon Co., KY
+1   DEAT Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:58
+1   FAMS @F33@
+1   FAMC @F28@
+
+0 @I126@ INDI
+1   NAME James Thomas /Prather/
+2     GIVN James Thomas
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 25 Apr 1825
+2     PLAC Bourbon Co., KY
+1   DEAT
+2     DATE 27 Apr 1879
+2     PLAC Steen Twp., Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 10:03
+1   FAMS @F34@
+1   FAMS @F35@
+1   FAMS @F36@
+1   FAMC @F28@
+
+0 @I127@ INDI
+1   NAME Nancy Jane /HAWKINS/
+2     GIVN Nancy Jane
+2     SURN HAWKINS
+1   SEX F
+1   BIRT
+2     DATE 14 Jan 1874
+2     PLAC Knox Co., IN
+1   DEAT Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 10:04
+1   FAMS @F34@
+
+0 @I130@ INDI
+1   NAME William Isaac /Prather/
+2     GIVN William Isaac
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE After 1857
+1   DEAT Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 10:05
+1   FAMS @F37@
+1   FAMC @F34@
+
+0 @I131@ INDI
+1   NAME Eli /Prather/
+2     GIVN Eli
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:26
+1   FAMC @F34@
+
+0 @I132@ INDI
+1   NAME Samuel A. /Prather/
+2     GIVN Samuel A.
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 30 Jan 1874
+1   DEAT
+2     DATE 18 Feb 1946
+1   BURI
+2     PLAC Fairview Cemetery in Vincennes, Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:27
+1   FAMC @F34@
+
+0 @I128@ INDI
+1   NAME Mary Ellen /STEEN/
+2     GIVN Mary Ellen
+2     SURN STEEN
+1   SEX F
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:27
+1   FAMS @F35@
+
+0 @I129@ INDI
+1   NAME Cynthia Ann /COLLINS/
+2     GIVN Cynthia Ann
+2     SURN COLLINS
+1   SEX F
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:28
+1   FAMS @F36@
+
+0 @I113@ INDI
+1   NAME Henry /Prather/
+2     GIVN Henry
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:29
+1   FAMC @F26@
+
+0 @I114@ INDI
+1   NAME Mary Ann /Prather/
+2     GIVN Mary Ann
+2     SURN Prather
+1   SEX F
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:29
+1   FAMC @F26@
+
+0 @I115@ INDI
+1   NAME Isaac /Prather/
+2     GIVN Isaac
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:29
+1   FAMC @F26@
+
+0 @I116@ INDI
+1   NAME James /Prather/
+2     GIVN James
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:29
+1   FAMC @F26@
+
+0 @I117@ INDI
+1   NAME Catherine [Jane] /Prather/
+2     GIVN Catherine [Jane]
+2     SURN Prather
+1   SEX F
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:29
+1   FAMC @F26@
+
+0 @I97@ INDI
+1   NAME Andrew Jackson /Prather/
+2     GIVN Andrew Jackson
+2     SURN Prather
+1   SEX M
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:30
+1   FAMS @F39@
+1   FAMC @F21@
+
+0 @I206@ INDI
+1   NAME William /Prater/
+2     GIVN William
+2     SURN Prater
+1   SEX M
+1   BIRT
+2     DATE Abt 1612
+1   DEAT Y
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:21
+1   FAMC @F108@
+
+0 @I207@ INDI
+1   NAME Samuel /Prater/
+2     GIVN Samuel
+2     SURN Prater
+1   SEX M
+1   BIRT
+2     DATE Abt 1610
+2     PLAC Eaton Water, co.Wilts, ENG
+1   DEAT
+2     DATE Abt 1679
+2     PLAC Dorchester Co., MD
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:22
+1   FAMC @F108@
+
+0 @I208@ INDI
+1   NAME Margaret /Prater/
+2     GIVN Margaret
+2     SURN Prater
+1   SEX F
+1   BIRT
+2     DATE Abt 1608
+1   DEAT Y
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:22
+1   FAMC @F108@
+
+0 @I79@ INDI
+1   NAME James /BEALL/
+2     GIVN James
+2     SURN BEALL
+1   SEX M
+1   BIRT
+2     DATE Jan 1710
+2     PLAC Prince Georges Co, Maryland
+1   DEAT
+2     PLAC Prince Georges Co, Maryland
+1   CHAN
+2     DATE 4 Jun 2002
+3       TIME 00:32
+1   FAMS @F76@
+1   FAMC @F19@
+
+0 @I37@ INDI
+1   NAME Katherine /Griffin/
+2     GIVN Katherine
+2     SURN Griffin
+1   SEX F
+1   BIRT
+2     DATE 1610
+2     PLAC England
+1   DEAT
+2     DATE 17 Aug 1661
+2     PLAC Maryland
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F7@
+
+0 @I38@ INDI
+1   NAME John Gordon /Sprigg/
+2     GIVN John Gordon
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1628
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMC @F7@
+
+0 @I39@ INDI
+1   NAME Sarah /Sprigg/
+2     GIVN Sarah
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1628
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMC @F7@
+
+0 @I40@ INDI
+1   NAME Abraham /Sprigg/
+2     GIVN Abraham
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1634
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMC @F7@
+
+0 @I42@ INDI
+1   NAME Katherine /Sprigg/
+2     GIVN Katherine
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1640
+2     PLAC England
+1   DEAT Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+1   FAMC @F7@
+
+0 @I43@ INDI
+1   NAME Joanne /Sprigg/
+2     GIVN Joanne
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1644
+2     PLAC England
+1   DEAT
+2     DATE 1675
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F111@
+1   FAMS @F112@
+1   FAMC @F7@
+
+0 @I24@ INDI
+1   NAME Thomas /Sprigg/
+2     GIVN Thomas
+2     SURN Sprigg
+2     NPFX Col
+1   SEX M
+1   BIRT
+2     DATE Abt 1665
+2     PLAC Prince Georges County, MD
+1   DEAT
+2     DATE Abt 1738
+2     PLAC Prince Georges County, MD
+1   AFN GTKF-SV
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:45
+1   FAMS @F78@
+1   FAMC @F5@
+
+0 @I65@ INDI
+1   NAME Mary Jane /Prather/
+2     GIVN Mary Jane
+2     SURN Prather
+1   SEX F
+1   BIRT
+2     DATE 1658
+2     PLAC , Calvert, Maryland
+1   DEAT
+2     DATE Bef 22 1718 May
+1   AFN 227H-2B
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:51
+1   FAMS @F102@
+1   FAMC @F13@
+
+0 @I64@ INDI
+1   NAME Lyle Jane /Mackay/
+2     GIVN Lyle Jane
+2     SURN Mackay
+1   SEX F
+1   BIRT
+2     DATE Abt 1638
+2     PLAC ., , VA.
+1   DEAT
+2     DATE 1713
+2     PLAC Brookfield Plantation, Prince George, MD.
+1   AFN 227H-4N
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:53
+1   FAMS @F13@
+
+0 @I63@ INDI
+1   NAME Jonathan /Prather/
+2     GIVN Jonathan
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1630
+2     PLAC ., Norfolk, VA.
+1   DEAT
+2     DATE Bef 1 Aug 1680
+2     PLAC ., Calvert, MD.
+1   AFN 25M1-KF
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:52
+1   FAMS @F13@
+1   FAMC @F101@
+
+0 @I35@ INDI
+1   NAME Sarah /Sprigg/
+2     GIVN Sarah
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE Abt 1702
+2     PLAC Northampton, Prince George's, Md
+1   DEAT Y
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 13:10
+1   FAMC @F6@
+
+0 @I4@ INDI
+1   NAME Verlinda /Graves/
+2     GIVN Verlinda
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1618-1622
+2     PLAC James City, Accomack, Accomac Co., Virginia
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     DATE 13 Jul 1675
+2     PLAC , Charles, , Maryland
+1   BURI
+2     DATE Abt 1675
+1   AFN BFW7-D2
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:18
+1   FAMS @F4@
+1   FAMC @F1@
+
+0 @I2@ INDI
+1   NAME Thomas /Graves/
+2     GIVN Thomas
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1 Apr 1584
+2     PLAC Lamborne, Berkshire, England
+1   CHR
+2     DATE 1 Apr 1584
+2     PLAC , Lamborne, Berkshire, England
+1   DEAT
+2     DATE 1635-1636
+2     PLAC Accomack, Virginia
+1   AFN 1TNV-ZD
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:15
+1   FAMS @F1@
+1   FAMC @F2@
+
+0 @I3@ INDI
+1   NAME Katherine /Crosher/
+2     GIVN Katherine
+2     SURN Crosher
+1   SEX F
+1   BIRT
+2     DATE Abt 1586
+2     PLAC Gravesend, Kent, England
+1   DEAT
+2     DATE 24 May 1636
+2     PLAC Accomack, Virginia
+1   AFN 1TNW-0J
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:15
+1   FAMS @F1@
+1   FAMC @F3@
+
+0 @I8@ INDI
+1   NAME Thomas /Graves/
+2     GIVN Thomas
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE Abt 1617
+2     PLAC <, , England>
+1   DEAT Y
+1   AFN 1D37-D41
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I9@ INDI
+1   NAME Francis /Graves/
+2     GIVN Francis
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE Abt 1619
+2     PLAC <, , England>
+1   DEAT Y
+1   AFN 1D37-D57
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I10@ INDI
+1   NAME Ann /Graves/
+2     GIVN Ann
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE Abt 1612
+2     PLAC <Of, Accomac, Virginia>
+1   DEAT Y
+1   AFN 1D37-D6F
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I11@ INDI
+1   NAME Virginia /Graves/
+2     GIVN Virginia
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE Abt 1623
+2     PLAC <, , England>
+1   DEAT Y
+1   AFN 1D37-D7M
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I12@ INDI
+1   NAME Katherine /Graves/
+2     GIVN Katherine
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1624
+2     PLAC Jamestown, Accomac, Virginia
+1   CHR
+2     PLAC , Of Lynn, Essex, Mass.
+1   DEAT
+2     DATE Bef 4 1668 Jul
+2     PLAC , Prince George, Maryland
+1   BURI
+2     PLAC , Calvert, Maryland
+1   AFN 1D37-D8T
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I17@ INDI
+1   NAME Henry /Graves/
+2     GIVN Henry
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1663
+2     PLAC <, , Gloucester, VA>
+1   DEAT Y
+1   AFN 1TNV-W2
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I18@ INDI
+1   NAME John /Graves/
+2     GIVN John
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1605
+2     PLAC Of, Lynn, Essex, Massachusetts
+1   DEAT
+2     DATE 1640
+2     PLAC Elizabeth City, Surry, Virginia
+1   AFN 1TNW-1P
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I5@ INDI
+1   NAME Thomas Captain /Graves/
+2     GIVN Thomas Captain
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1607
+2     PLAC Of, Accomack, Accomac Co., Virginia
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     DATE 6 Mar 1674
+2     PLAC , , Gloucester, VA
+1   BURI
+2     PLAC , , Gloucester, Virginia
+1   AFN 55LS-97
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I7@ INDI
+1   NAME Ann Cotton Eaton /Graves/
+2     GIVN Ann Cotton Eaton
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1620
+2     PLAC Of, Charles, Accomac Co., Virginia
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     DATE 18 Jul 1683
+2     PLAC , , Charles Co., Virginia
+1   BURI
+2     DATE Bef 18 1683 Jul
+2     PLAC , , Charles Co., Maryland
+1   AFN 55LT-4H
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I14@ INDI
+1   NAME Francis /Graves/
+2     GIVN Francis
+2     SURN Graves
+1   SEX M
+1   BIRT
+2     DATE 1630
+2     PLAC Of, Accomack, Accomac Co., Virginia
+1   CHR
+2     PLAC , , Gloucester Co., VA
+1   DEAT
+2     DATE 5 Aug 1691
+2     PLAC , , Rappahannock Co., VA
+1   BURI
+2     PLAC , , Old Rappahannock, Virginia
+1   AFN GMNX-JG
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I13@ INDI
+1   NAME Katherine /Graves/
+2     GIVN Katherine
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1621-1622
+2     PLAC Of, Lynn, Essex, Massachusetts
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     DATE 1668
+2     PLAC , , Prince George, Maryland
+1   BURI
+2     PLAC , , Calvert, Maryland
+1   AFN R8NG-VS
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I15@ INDI
+1   NAME Frances /Graves/
+2     GIVN Frances
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE 1619
+2     PLAC Of, Lamborne, Berkshire, England
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT
+2     PLAC Of, Lynn, Essex, Mass
+1   AFN V4QW-S9
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I16@ INDI
+1   NAME Elizabeth Anna /Graves/
+2     GIVN Elizabeth Anna
+2     SURN Graves
+1   SEX F
+1   BIRT
+2     DATE Abt 1621
+2     PLAC Of, Lamborne, Berkshire, England
+1   CHR
+2     PLAC Of, Lynn, Essex, Mass
+1   DEAT Y
+1   AFN V4QW-VM
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+1   FAMC @F1@
+
+0 @I36@ INDI
+1   NAME Thomas /Sprigg/
+2     GIVN Thomas
+2     SURN Sprigg
+1   SEX M
+1   BIRT
+2     DATE 1604
+2     PLAC England
+1   DEAT
+2     DATE 14 Jan 1678
+2     PLAC England
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F7@
+
+0 @I167@ INDI
+1   NAME John /HOWARD/
+2     GIVN John
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1 Dec 1578
+2     PLAC Brockdish Hall, Norfolk, Norfolk, England
+1   CHR
+2     DATE 1 Dec 1578
+2     PLAC Brockdish Manor, Burston, Norfolk, England
+1   DEAT
+2     DATE 4 Apr 1642
+2     PLAC Norwich, Norfolk, Eng
+1   AFN 8FP3-0Q
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMS @F61@
+1   FAMC @F71@
+
+0 @I177@ INDI
+1   NAME Arundel Thomas /HOWARD/
+2     GIVN Arundel Thomas
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE Abt 1598
+2     PLAC , , , England
+1   DEAT Y
+1   AFN 1606-33D
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I168@ INDI
+1   NAME Elizabeth /LOCK/
+2     GIVN Elizabeth
+2     SURN LOCK
+1   SEX F
+1   BIRT
+2     DATE 1580
+2     PLAC ?
+1   DEAT
+2     DATE Unknown
+2     PLAC ?
+1   AFN 8FP3-1W
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMS @F61@
+
+0 @I170@ INDI
+1   NAME Robert /HOWARD/
+2     GIVN Robert
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1608
+1   CHR
+2     DATE 27 Nov 1608
+2     PLAC Thorpe Abbots, Norfolk, Eng
+1   DEAT Y
+1   AFN 8FP3-7X
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I171@ INDI
+1   NAME Daniel /HOWARD/
+2     GIVN Daniel
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1610
+1   CHR
+2     DATE 25 Feb 1610
+2     PLAC Thorpe Abbots, , Norfolk, England
+1   DEAT Y
+1   AFN 8FP3-84
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I172@ INDI
+1   NAME John /HOWARD/
+2     GIVN John
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1612
+1   CHR
+2     DATE 30 Jan 1612
+2     PLAC Thorpe Abbots, , Norfolk, England
+1   DEAT Y
+1   AFN 8FP3-99
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I173@ INDI
+1   NAME Thomas /HOWARD/
+2     GIVN Thomas
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1614
+1   CHR
+2     DATE 4 Apr 1614
+2     PLAC Thorpe Abbots, , Norfolk, England
+1   DEAT Y
+1   AFN 8FP3-BG
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I174@ INDI
+1   NAME Grace /HOWARD/
+2     GIVN Grace
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE 1616
+1   CHR
+2     DATE 15 Apr 1616
+2     PLAC Thorpe Abbots, , Norfolk, England
+1   DEAT Y
+1   AFN 8FP3-CM
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I175@ INDI
+1   NAME Mary /HOWARD/
+2     GIVN Mary
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE 1618
+1   CHR
+2     DATE 5 Mar 1618
+2     PLAC Thorpe Abbots, , Norfolk, England
+1   DEAT Y
+1   AFN 8FP3-DS
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I176@ INDI
+1   NAME Henry /HOWARD/
+2     GIVN Henry
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1620
+2     PLAC Of A.a. Co., Md., Norfolk, Eng
+1   DEAT
+2     DATE Will Pr 1684 Mar 08
+1   AFN 8FP3-F0
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I169@ INDI
+1   NAME Anne Arundel /HOWARD/
+2     GIVN Anne Arundel
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE Abt 1611
+2     PLAC <" (came To Va 1637 Then To Md)>
+1   DEAT Y
+1   AFN G8XB-GP
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I178@ INDI
+1   NAME Samuel /HOWARD/
+2     GIVN Samuel
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE Abt 1626
+2     PLAC , , Virginia
+1   DEAT Y
+1   AFN GCXH-7D
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I179@ INDI
+1   NAME John /HOWARD/
+2     GIVN John
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE Abt 1628
+2     PLAC , , Virginia
+1   DEAT Y
+1   AFN GCXH-8K
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I180@ INDI
+1   NAME Ann /HOWARD/
+2     GIVN Ann
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE Abt 1634
+2     PLAC , , Virginia
+1   DEAT Y
+1   AFN GCXH-BW
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I181@ INDI
+1   NAME Elizabeth /HOWARD/
+2     GIVN Elizabeth
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE Abt 1636
+2     PLAC , , Virginia
+1   DEAT Y
+1   AFN GCXH-C3
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:56
+1   FAMC @F61@
+
+0 @I160@ INDI
+1   NAME Ellinor /HOWARD/
+2     GIVN Ellinor
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE 1626
+2     PLAC , , , England
+1   DEAT Y
+1   AFN 18M3-NKW
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 06:54
+1   FAMS @F65@
+1   FAMC @F59@
+
+0 @I165@ INDI
+1   NAME Ann /HOWARD/
+2     GIVN Ann
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE Abt 1637
+2     PLAC , Lower Norfolk Ct, Va.
+1   DEAT
+2     DATE Aft 26 1694 Sep
+2     PLAC , , Anar.cty. Md.
+1   AFN 1RJJ-JS6
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMC @F59@
+
+0 @I163@ INDI
+1   NAME Philip /HOWARD/
+2     GIVN Philip
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1649
+2     PLAC Of, Anne Arundel, Maryland
+1   DEAT
+2     DATE 1701-1702
+2     PLAC , Anne Arundel, Maryland
+1   AFN 3W2R-0B
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:25
+1   FAMS @F68@
+1   FAMC @F59@
+
+0 @I164@ INDI
+1   NAME John /HOWARD/
+2     GIVN John
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE Cir 1639
+2     PLAC Of Norfolk Co., Norfolk, Virginia
+1   DEAT
+2     DATE 18 Nov 1696
+2     PLAC Wd, , Anne Arundel Co., Md
+1   AFN 3W2R-56
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 20:44
+1   FAMS @F69@
+1   FAMC @F59@
+
+0 @I145@ INDI
+1   NAME Elizabeth /HOWARD/
+2     GIVN Elizabeth
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE 1642
+2     PLAC , Of, Norfolk, Virginia
+1   DEAT
+2     DATE 9 Aug 1695
+2     PLAC Annapolis, Anne Arundel, Md
+1   AFN 3W2R-9V
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F50@
+1   FAMC @F59@
+
+0 @I157@ INDI
+1   NAME Matthew /HOWARD/
+2     GIVN Matthew
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1640
+2     PLAC Of, Anne Arundel, Md
+1   CHR
+2     DATE 1643
+2     PLAC , Lower Norfolk Co, Va
+1   DEAT
+2     DATE 12 Jan 1692
+2     PLAC A. A. Co., Md
+1   AFN 8FP1-B6
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 21:09
+1   FAMS @F63@
+1   FAMC @F59@
+
+0 @I159@ INDI
+1   NAME Henry /HOWARD/
+2     GIVN Henry
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE Abt 1622
+2     PLAC , Lower Norfolk Co, Va
+1   DEAT
+2     DATE Will Pr 1684 Mar 08
+2     PLAC Ann Arundell Co, Maryland
+1   AFN 8MZ7-XC
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMC @F59@
+
+0 @I182@ INDI
+1   NAME Richard /HALL/
+2     GIVN Richard
+2     SURN HALL
+1   SEX M
+1   BIRT
+2     DATE 1579
+2     PLAC , England
+1   DEAT
+2     DATE 1688
+2     PLAC , Norfolk, Virginia
+1   AFN 8N07-H6
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 08:00
+1   FAMS @F62@
+
+0 @I183@ INDI
+1   NAME Mrs-Richard /HALL/
+2     GIVN Mrs-Richard
+2     SURN HALL
+1   SEX F
+1   BIRT
+2     DATE Abt 1599
+2     PLAC , , , England
+1   AFN 8N07-JC
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 08:00
+1   FAMS @F62@
+
+0 @I161@ INDI
+1   NAME Samuel /HOWARD/
+2     GIVN Samuel
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1628
+2     PLAC Of, Anne Arundel, Maryland
+1   DEAT
+2     DATE 9 Nov 1703
+2     PLAC , Anne Arundel, Maryland
+1   AFN MJJG-SG
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:19
+1   FAMS @F66@
+1   FAMC @F59@
+
+0 @I166@ INDI
+1   NAME Cornelius /HOWARD/
+2     GIVN Cornelius
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1637
+2     PLAC , Norfolk, Va
+1   DEAT
+2     DATE 15 Oct 1680
+2     PLAC , Anne Arundel, Maryland
+1   AFN MRG7-FV
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:29
+1   FAMS @F70@
+1   FAMC @F59@
+
+0 @I185@ INDI
+1   NAME Elisha /HALL/
+2     GIVN Elisha
+2     SURN HALL
+1   SEX M
+1   BIRT
+2     DATE Abt 1608
+2     PLAC <, , , Eng>
+1   DEAT Y
+1   AFN 1606-5N8
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMC @F62@
+
+0 @I184@ INDI
+1   NAME Rachel /HALL/
+2     GIVN Rachel
+2     SURN HALL
+1   SEX F
+1   BIRT
+2     DATE Abt 1612
+2     PLAC <England>
+1   DEAT Y
+1   AFN 1606-5PG
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+1   FAMC @F62@
+
+0 @I148@ INDI
+1   NAME Henry /RIDGELY/
+2     GIVN Henry
+2     SURN RIDGELY
+1   SEX M
+1   BIRT
+2     DATE 3 Oct 1669
+2     PLAC Waldridge, Anne Arundel Co., Md
+1   DEAT
+2     DATE 19 May 1699
+2     PLAC St. Ann's Par, A. A. Co., Md
+1   BURI
+2     DATE 1700
+2     PLAC Waldridge Then M, Anne Arundel Co., Md
+1   AFN 8FP0-6C
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:28
+1   FAMS @F73@
+1   FAMC @F57@
+
+0 @I147@ INDI
+1   NAME Sarah /WARNER/
+2     GIVN Sarah
+2     SURN WARNER
+1   SEX F
+1   BIRT
+2     DATE 1629
+2     PLAC Of Anne Arundel Co., Md
+1   DEAT
+2     DATE 1690-1695
+2     PLAC Prince George Co, Md
+1   AFN 8FP0-FK
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:30
+1   FAMS @F57@
+1   FAMC @F72@
+
+0 @I152@ INDI
+1   NAME Nicholas /RIDGELY/
+2     GIVN Nicholas
+2     SURN RIDGELY
+1   SEX M
+1   BIRT
+2     DATE Abt 1665
+2     PLAC , , Md.
+1   DEAT Y
+1   AFN 1L25-BWG
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:27
+1   FAMC @F57@
+
+0 @I149@ INDI
+1   NAME Sarah /RIDGELY/
+2     GIVN Sarah
+2     SURN RIDGELY
+1   SEX F
+1   BIRT
+2     DATE 1660-1667
+2     PLAC Wardridge, A.a., Md
+1   DEAT
+2     DATE 28 Jun 1727
+2     PLAC , , Anne Arundel Co., Maryland
+1   BURI
+2     PLAC , Anne Arundel, Md
+1   AFN 8FP2-CH
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:27
+1   FAMC @F57@
+
+0 @I150@ INDI
+1   NAME Charles /RIDGELY/
+2     GIVN Charles
+2     SURN RIDGELY
+1   SEX M
+1   BIRT
+2     DATE Cir 1673
+2     PLAC Wardridge, A.a., Md
+1   DEAT
+2     DATE 1722
+2     PLAC Annapolis, Anne Arundel, Md
+1   AFN 8FP2-DN
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:27
+1   FAMC @F57@
+
+0 @I151@ INDI
+1   NAME Rachel /RIDGELY/
+2     GIVN Rachel
+2     SURN RIDGELY
+1   SEX F
+1   BIRT
+2     DATE Cir 1675
+2     PLAC Wardridge, A.a., Md
+1   DEAT Y
+1   AFN 8FP2-FT
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:27
+1   FAMC @F57@
+
+0 @I155@ INDI
+1   NAME Matthew /HOWARD/
+2     GIVN Matthew
+2     SURN HOWARD
+1   SEX M
+1   BIRT
+2     DATE 1609
+2     PLAC Wardour, Wiltshire, England
+1   DEAT
+2     DATE 4 Sep 1659
+2     PLAC , Anne Arundel, Maryland
+1   AFN 3W2R-2N
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:28
+1   FAMS @F59@
+1   FAMC @F61@
+
+0 @I156@ INDI
+1   NAME Anne /HALL/
+2     GIVN Anne
+2     SURN HALL
+1   SEX F
+1   BIRT
+2     DATE Abt 1610
+2     PLAC <, , , England>
+1   DEAT
+2     DATE 1640
+2     PLAC , Anne Arundel, Maryland
+1   AFN 3W2R-3T
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:28
+1   FAMS @F59@
+1   FAMC @F62@
+
+0 @I158@ INDI
+1   NAME Anne /HOWARD/
+2     GIVN Anne
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE Abt 1644-1647
+2     PLAC , Of, Norfolk, Virginia
+1   DEAT
+2     DATE In Hus 1690 Jan 21 Will
+1   AFN 3W2R-8P
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 21:02
+1   FAMS @F64@
+1   FAMC @F59@
+
+0 @I146@ INDI
+1   NAME Henry /RIDGELY/
+2     GIVN Henry
+2     SURN RIDGELY
+1   SEX M
+1   BIRT
+2     DATE 3 Oct 1669
+2     PLAC Waldridge, Anne Arundel Co., Md
+1   DEAT
+2     DATE 19 May 1699
+2     PLAC St. Ann's Par, A. A. Co., Md
+1   BURI
+2     DATE 1700
+2     PLAC Waldridge Then M, Anne Arundel Co., Md
+1   AFN 8FP0-6C
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F60@
+1   FAMC @F50@
+
+0 @I144@ INDI
+1   NAME Henry /RIDGELEY/
+2     GIVN Henry
+2     SURN RIDGELEY
+2     NPFX COLONEL
+1   SEX M
+1   BIRT
+2     DATE Cir 1627
+2     PLAC Tiverton, Devonshire, Eng.
+1   CHR
+2     DATE 1627
+2     PLAC , Tiverton, Devonshire, England
+1   DEAT
+2     DATE 2 Apr 1710
+2     PLAC Annapolis, Anne Arundel, Md
+1   BURI
+2     DATE 1710
+2     PLAC , Anne Arundel, Maryland
+1   AFN 8FP0-DD
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F50@
+1   FAMS @F57@
+1   FAMC @F58@
+
+0 @I84@ INDI
+1   NAME Sarah /RIDGELY/
+2     GIVN Sarah
+2     SURN RIDGELY
+1   SEX F
+1   BIRT
+2     DATE 1660-1667
+2     PLAC Wardridge, A.a., Md
+1   DEAT
+2     DATE 28 Jun 1727
+2     PLAC , , Anne Arundel Co., Maryland
+1   BURI
+2     PLAC , Anne Arundel, Md
+1   AFN 8FP2-CH
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F49@
+1   FAMS @F20@
+1   FAMC @F50@
+
+0 @I153@ INDI
+1   NAME Henry /RIDGELY/
+2     GIVN Henry
+2     SURN RIDGELY
+1   SEX M
+1   BIRT
+2     DATE 1601
+2     PLAC , Devonshire, England
+1   AFN PBWX-9L
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F58@
+
+0 @I154@ INDI
+1   NAME Mrs. Henry /RIDGELY/
+2     GIVN Mrs. Henry
+2     SURN RIDGELY
+1   SEX F
+1   BIRT
+2     DATE 1601
+2     PLAC , Devonshire, England
+1   AFN XZD0-2J
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+1   FAMS @F58@
+
+0 @I162@ INDI
+1   NAME Mary /HOWARD/
+2     GIVN Mary
+2     SURN HOWARD
+1   SEX F
+1   BIRT
+2     DATE 1647
+2     PLAC Of, Anne Arundel, Maryland
+1   DEAT
+2     DATE 4 Apr 1721
+2     PLAC , Anne Arundel, Maryland
+1   AFN 3W2Q-HR
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:30
+1   FAMS @F67@
+1   FAMC @F59@
+
+0 @I67@ INDI
+1   NAME Jonathan /Prather/
+2     GIVN Jonathan
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE 12 Sep 1666
+2     PLAC ., Calvert, MD.
+1   DEAT
+2     DATE 23 Mar 1736
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+1   FAMS @F104@
+1   FAMC @F13@
+
+0 @I25@ INDI
+1   NAME Alice /Sprigg/
+2     GIVN Alice
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1640
+2     PLAC Calvert Co, Maryland
+1   DEAT Y
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+1   FAMS @F79@
+1   FAMC @F5@
+
+0 @I61@ INDI
+1   NAME /Hennerete/
+2     SURN Hennerete
+1   SEX F
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:27
+1   FAMS @F11@
+
+0 @I62@ INDI
+1   NAME /Margert/
+2     SURN Margert
+1   SEX F
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:27
+1   FAMS @F12@
+
+0 @I55@ INDI
+1   NAME Thomas M. Sprigg /Prather/
+2     GIVN Thomas M. Sprigg
+2     SURN Prather
+1   SEX M
+1   BIRT
+2     DATE Abt 1704
+2     PLAC Prince George Co., MD
+1   DEAT
+2     DATE 24 Jul 1785
+2     PLAC Washington, MD
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:27
+1   FAMC @F10@
+
+0 @I30@ INDI
+1   NAME Mary /Sprigg/
+2     GIVN Mary
+2     SURN Sprigg
+1   SEX F
+1   BIRT
+2     DATE 1673
+2     PLAC Anne Arundel Co, Md
+1   DEAT
+2     DATE 27 Jan 1693
+2     PLAC All Hallowes So, River Paris, Anne Arundel, MD
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 12:56
+1   FAMS @F86@
+1   FAMC @F6@
+
+0 @F54@ FAM
+1   HUSB @I85@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1724
+2     PLAC Prince George's Co., MD
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 09:59
+
+0 @F6@ FAM
+1   HUSB @I19@
+2     _PREF Y
+1   WIFE @I26@
+2     _PREF Y
+1   MARR
+2     DATE 1668
+2     PLAC Maryland
+1   CHIL @I27@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I28@
+1   CHIL @I29@
+1   CHIL @I30@
+1   CHIL @I31@
+1   CHIL @I32@
+1   CHIL @I33@
+1   CHIL @I34@
+1   CHIL @I35@
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+
+0 @F9@ FAM
+1   HUSB @I49@
+2     _PREF Y
+1   WIFE @I27@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F51@ FAM
+1   WIFE @I141@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 09:09
+
+0 @F49@ FAM
+1   HUSB @I140@
+2     _PREF Y
+1   WIFE @I84@
+2     _PREF Y
+1   CHIL @I141@
+2     _PREF Y
+1   CHIL @I142@
+1   CHIL @I143@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 09:11
+
+0 @F20@ FAM
+1   HUSB @I83@
+1   WIFE @I84@
+2     _PREF Y
+1   MARR
+2     DATE Apr 1691
+1   CHIL @I85@
+2     _PREF Y
+1   CHIL @I86@
+1   CHIL @I87@
+1   CHIL @I88@
+1   CHIL @I89@
+1   CHIL @I72@
+1   CHIL @I90@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 09:14
+
+0 @F48@ FAM
+1   HUSB @I86@
+2     _PREF Y
+1   WIFE @I76@
+2     _PREF Y
+1   MARR
+2     DATE 1712
+2     PLAC Prince George's Co;MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 13:47
+
+0 @F19@ FAM
+1   HUSB @I74@
+2     _PREF Y
+1   WIFE @I75@
+2     _PREF Y
+1   MARR
+2     DATE 1695
+1   CHIL @I76@
+2     _PREF Y
+1   CHIL @I71@
+1   CHIL @I77@
+1   CHIL @I78@
+1   CHIL @I79@
+1   CHIL @I80@
+1   CHIL @I81@
+1   CHIL @I82@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:17
+
+0 @F47@ FAM
+1   HUSB @I138@
+2     _PREF Y
+1   WIFE @I20@
+2     _PREF Y
+1   CHIL @I75@
+2     _PREF Y
+1   CHIL @I139@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 10:18
+
+0 @F5@ FAM
+1   HUSB @I19@
+2     _PREF Y
+1   WIFE @I6@
+1   MARR
+2     DATE 3 Mar 1650
+2     PLAC Northampton Co;VA
+1   CHIL @I20@
+2     _PREF Y
+1   CHIL @I21@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I22@
+1   CHIL @I23@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I24@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I25@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+
+0 @F46@ FAM
+1   HUSB @I133@
+2     _PREF Y
+1   WIFE @I134@
+2     _PREF Y
+1   MARR
+2     DATE 21 May 1646
+2     PLAC Parish Crch, St.Andrew's, Fifeshire, England
+1   CHIL @I74@
+2     _PREF Y
+1   CHIL @I135@
+1   CHIL @I136@
+1   CHIL @I137@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:36
+
+0 @F55@ FAM
+1   WIFE @I89@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:03
+
+0 @F18@ FAM
+1   HUSB @I72@
+2     _PREF Y
+1   WIFE @I71@
+2     _PREF Y
+1   MARR
+2     DATE 21 Nov 1723
+2     PLAC Prince George's Co;MD
+1   CHIL @I73@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:19
+
+0 @F56@ FAM
+1   WIFE @I90@
+2     _PREF Y
+1   MARR
+2     DATE 9 Nov 1729
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:04
+
+0 @F15@ FAM
+1   HUSB @I52@
+1   WIFE @I71@
+2     _PREF Y
+1   MARR
+2     DATE 31 Oct 1754
+2     PLAC Md
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 14:23
+
+0 @F74@ FAM
+1   HUSB @I77@
+2     _PREF Y
+1   MARR
+2     DATE 24 Feb 1724
+2     PLAC Prince George's Co;MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:11
+
+0 @F75@ FAM
+1   HUSB @I78@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:17
+
+0 @F45@ FAM
+1   HUSB @I81@
+2     _PREF Y
+1   WIFE @I102@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:23
+
+0 @F81@ FAM
+1   HUSB @I135@
+2     _PREF Y
+1   MARR
+2     DATE 1684
+2     PLAC St. Andrews, Fife, Scotland
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:42
+
+0 @F82@ FAM
+1   HUSB @I136@
+2     _PREF Y
+1   MARR
+2     DATE 1695
+2     PLAC Md
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:42
+
+0 @F80@ FAM
+1   HUSB @I187@
+1   CHIL @I133@
+2     _PREF Y
+1   CHIL @I188@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:46
+
+0 @F83@ FAM
+1   HUSB @I188@
+2     _PREF Y
+1   MARR
+2     DATE 5 Dec 1639
+2     PLAC Parish Crch, St.Andrew's, Fifeshire, England
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 20:47
+
+0 @F40@ FAM
+1   HUSB @I46@
+2     _PREF Y
+1   WIFE @I31@
+2     _PREF Y
+1   MARR
+2     DATE 1699
+2     PLAC Maryland
+1   CHIL @I98@
+2     _PREF Y
+1   CHAN
+2     DATE 28 Jun 2002
+3       TIME 09:53
+
+0 @F85@ FAM
+1   HUSB @I189@
+1   WIFE @I31@
+2     _PREF Y
+1   MARR
+2     DATE 1684
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:02
+
+0 @F87@ FAM
+1   WIFE @I34@
+2     _PREF Y
+1   MARR
+2     DATE 1698
+2     PLAC Prince Georges Co, MD
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:04
+
+0 @F8@ FAM
+1   HUSB @I44@
+2     _PREF Y
+1   WIFE @I45@
+2     _PREF Y
+1   MARR
+2     DATE 1644
+2     PLAC Va
+1   CHIL @I26@
+2     _PREF Y
+1   CHIL @I46@
+1   CHIL @I47@
+1   CHIL @I48@
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:06
+
+0 @F88@ FAM
+1   HUSB @I190@
+2     _PREF Y
+1   WIFE @I191@
+2     _PREF Y
+1   CHIL @I44@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:08
+
+0 @F90@ FAM
+1   HUSB @I194@
+2     _PREF Y
+1   WIFE @I195@
+2     _PREF Y
+1   CHIL @I190@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:08
+
+0 @F91@ FAM
+1   CHIL @I194@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:10
+
+0 @F89@ FAM
+1   HUSB @I192@
+2     _PREF Y
+1   WIFE @I193@
+2     _PREF Y
+1   CHIL @I45@
+2     _PREF Y
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:11
+
+0 @F77@ FAM
+1   HUSB @I186@
+1   WIFE @I20@
+2     _PREF Y
+1   MARR
+2     DATE After 1704
+1   CHAN
+2     DATE 20 May 2002
+3       TIME 21:14
+
+0 @F97@ FAM
+1   HUSB @I57@
+2     _PREF Y
+1   MARR
+2     DATE 10 Oct 1730
+2     PLAC All Hallows Parish, Anne Arundel Co., Maryland
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+
+0 @F27@ FAM
+1   HUSB @I111@
+2     _PREF Y
+1   MARR
+2     DATE 2 Mar 1824
+2     PLAC Nicholas Co., KY
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 08:59
+
+0 @F28@ FAM
+1   HUSB @I112@
+2     _PREF Y
+1   WIFE @I118@
+2     _PREF Y
+1   MARR
+2     DATE 29 Aug 1819
+2     PLAC Bourbon Co., KY
+1   CHIL @I119@
+2     _PREF Y
+1   CHIL @I120@
+1   CHIL @I121@
+1   CHIL @I122@
+1   CHIL @I123@
+1   CHIL @I124@
+1   CHIL @I125@
+1   CHIL @I126@
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:37
+
+0 @F29@ FAM
+1   WIFE @I119@
+2     _PREF Y
+1   MARR
+2     DATE 4 Jan 1841
+2     PLAC Knox Co., Indiana
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:39
+
+0 @F30@ FAM
+1   HUSB @I120@
+2     _PREF Y
+1   MARR
+2     DATE Bef 1850
+2     PLAC Knox Co., Indiana
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:40
+
+0 @F31@ FAM
+1   WIFE @I121@
+2     _PREF Y
+1   MARR
+2     DATE 18 Feb 1858
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:41
+
+0 @F32@ FAM
+1   WIFE @I124@
+2     _PREF Y
+1   MARR
+2     DATE 13 Nov 1862
+2     PLAC Knox County, Indiana
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:43
+
+0 @F33@ FAM
+1   HUSB @I125@
+2     _PREF Y
+1   MARR
+2     DATE 12 Jan 1862
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 09:58
+
+0 @F34@ FAM
+1   HUSB @I126@
+2     _PREF Y
+1   WIFE @I127@
+2     _PREF Y
+1   MARR
+2     DATE 15 Mar 1857
+2     PLAC Knox Co., IN
+1   CHIL @I130@
+2     _PREF Y
+1   CHIL @I131@
+1   CHIL @I132@
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 10:04
+
+0 @F37@ FAM
+1   HUSB @I130@
+2     _PREF Y
+1   MARR
+2     DATE 27 Nov 1888
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 10:06
+
+0 @F35@ FAM
+1   HUSB @I126@
+2     _PREF Y
+1   WIFE @I128@
+1   MARR
+2     DATE Abt 1851
+2     PLAC IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:27
+
+0 @F36@ FAM
+1   HUSB @I126@
+2     _PREF Y
+1   WIFE @I129@
+1   MARR
+2     DATE 13 Mar 1876
+2     PLAC Knox Co., IN
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:28
+
+0 @F39@ FAM
+1   HUSB @I97@
+2     _PREF Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:30
+
+0 @F42@ FAM
+1   HUSB @I99@
+2     _PREF Y
+1   CHAN
+2     DATE 1 Jun 2002
+3       TIME 18:33
+
+0 @F76@ FAM
+1   HUSB @I79@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1735
+2     PLAC Prince George's Co;MD
+1   CHAN
+2     DATE 4 Jun 2002
+3       TIME 00:31
+
+0 @F7@ FAM
+1   HUSB @I36@
+2     _PREF Y
+1   WIFE @I37@
+2     _PREF Y
+1   MARR
+2     DATE 1629
+2     PLAC England
+1   CHIL @I19@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I38@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I39@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I40@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I41@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I42@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I43@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 19 Aug 2003
+3       TIME 11:09
+
+0 @F111@ FAM
+1   WIFE @I43@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F112@ FAM
+1   WIFE @I43@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F104@ FAM
+1   HUSB @I67@
+2     _PREF Y
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:38
+
+0 @F79@ FAM
+1   WIFE @I25@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F23@ FAM
+1   HUSB @I92@
+2     _PREF Y
+1   MARR
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F24@ FAM
+1   HUSB @I93@
+2     _PREF Y
+1   MARR
+2     DATE 26 Jan 1796
+2     PLAC Hardy Co., West Virginia
+1   CHAN
+2     DATE 14 Apr 2004
+3       TIME 12:48
+
+0 @F25@ FAM
+1   HUSB @I94@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F26@ FAM
+1   HUSB @I95@
+2     _PREF Y
+1   WIFE @I106@
+2     _PREF Y
+1   CHIL @I107@
+2     _PREF Y
+1   CHIL @I108@
+1   CHIL @I109@
+1   CHIL @I110@
+1   CHIL @I111@
+1   CHIL @I112@
+1   CHIL @I113@
+1   CHIL @I114@
+1   CHIL @I115@
+1   CHIL @I116@
+1   CHIL @I117@
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F38@ FAM
+1   HUSB @I96@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F101@ FAM
+1   HUSB @I196@
+2     _PREF Y
+1   WIFE @I197@
+2     _PREF Y
+1   MARR
+2     DATE 1627
+2     PLAC Elizabeth City (now Newport News), VA
+1   CHIL @I198@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I63@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I199@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I200@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I201@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 3 Jun 2002
+3       TIME 07:26
+
+0 @F41@ FAM
+1   HUSB @I99@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1752
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F108@ FAM
+1   HUSB @I202@
+2     _PREF Y
+1   WIFE @I203@
+2     _PREF Y
+1   MARR
+2     DATE 4 Jun 1599
+2     PLAC Clyffe Papard Ch., Shefford Magna, Wiltshire, Eng.
+1   CHIL @I204@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I196@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I205@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I206@
+1   CHIL @I207@
+1   CHIL @I208@
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F43@ FAM
+1   WIFE @I100@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1747
+2     PLAC ., Montgomery, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F44@ FAM
+1   WIFE @I100@
+2     _PREF Y
+1   MARR
+2     DATE Bef 1779
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F84@ FAM
+1   HUSB @I104@
+2     _PREF Y
+1   MARR
+2     DATE 2 Mar 1778
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F11@ FAM
+1   HUSB @I50@
+2     _PREF Y
+1   WIFE @I61@
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:24
+
+0 @F12@ FAM
+1   HUSB @I50@
+2     _PREF Y
+1   WIFE @I62@
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:24
+
+0 @F94@ FAM
+1   HUSB @I54@
+2     _PREF Y
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:24
+
+0 @F60@ FAM
+1   HUSB @I146@
+2     _PREF Y
+1   MARR
+2     DATE 1689
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:04
+
+0 @F52@ FAM
+1   HUSB @I142@
+2     _PREF Y
+1   MARR
+2     DATE 14 Feb 1704
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:49
+
+0 @F53@ FAM
+1   HUSB @I143@
+2     _PREF Y
+1   MARR
+2     DATE 18 Dec 1715
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 10:08
+
+0 @F86@ FAM
+1   WIFE @I30@
+2     _PREF Y
+1   MARR
+2     DATE 12 Mar 1687
+2     PLAC Anne Arundel Co, Md
+1   CHAN
+2     DATE 26 Jun 2002
+3       TIME 12:56
+
+0 @F103@ FAM
+1   WIFE @I66@
+2     _PREF Y
+1   MARR
+2     DATE 1680
+1   CHAN
+2     DATE 4 Jun 2002
+3       TIME 07:24
+
+0 @F110@ FAM
+1   CHIL @I203@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F21@ FAM
+1   HUSB @I91@
+2     _PREF Y
+1   WIFE @I73@
+2     _PREF Y
+1   MARR
+2     DATE 1750
+1   CHIL @I92@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I93@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I94@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I95@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I96@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I97@
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F109@ FAM
+1   MARR
+2     DATE 1566
+2     PLAC West Kingston, Wiltshire, Eng.
+1   CHIL @I202@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F78@ FAM
+1   HUSB @I24@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1690
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:45
+
+0 @F102@ FAM
+1   WIFE @I65@
+2     _PREF Y
+1   MARR
+2     DATE 1680
+2     PLAC , , Md
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:51
+
+0 @F13@ FAM
+1   HUSB @I63@
+2     _PREF Y
+1   WIFE @I64@
+2     _PREF Y
+1   MARR
+2     DATE Bef 12 Sep 1666
+2     PLAC Prather Hall
+1   CHIL @I65@
+2     _PREF Y
+1   CHIL @I66@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I67@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I68@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I69@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I50@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I70@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 23 Aug 2003
+3       TIME 12:53
+
+0 @F4@ FAM
+1   WIFE @I4@
+2     _PREF Y
+1   MARR
+2     DATE 1639-1640
+2     PLAC , , Accomac, Virginia
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:18
+
+0 @F1@ FAM
+1   HUSB @I2@
+2     _PREF Y
+1   WIFE @I3@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1610
+2     PLAC , Accomack, Virginia
+1   CHIL @I1@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I4@
+2     _PREF Y
+1   CHIL @I5@
+1   CHIL @I6@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I7@
+1   CHIL @I8@
+1   CHIL @I9@
+1   CHIL @I10@
+1   CHIL @I11@
+1   CHIL @I12@
+1   CHIL @I13@
+1   CHIL @I14@
+1   CHIL @I15@
+1   CHIL @I16@
+1   CHIL @I17@
+1   CHIL @I18@
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:15
+
+0 @F3@ FAM
+1   CHIL @I3@
+2     _PREF Y
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+
+0 @F2@ FAM
+1   CHIL @I2@
+2     _PREF Y
+1   CHAN
+2     DATE 10 Sep 2003
+3       TIME 10:14
+
+0 @F65@ FAM
+1   WIFE @I160@
+2     _PREF Y
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 06:54
+
+0 @F71@ FAM
+1   MARR
+2     DATE 1574
+2     PLAC All Saintsparish, Tybbenham, Norfolk, Eng
+1   CHIL @I167@
+2     _PREF Y
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:57
+
+0 @F61@ FAM
+1   HUSB @I167@
+2     _PREF Y
+1   WIFE @I168@
+2     _PREF Y
+1   MARR
+2     DATE 26 Nov 1606
+2     PLAC , , , England
+1   CHIL @I169@
+2     _PREF Y
+1   CHIL @I170@
+1   CHIL @I171@
+1   CHIL @I172@
+1   CHIL @I173@
+1   CHIL @I174@
+1   CHIL @I175@
+1   CHIL @I176@
+1   CHIL @I177@
+1   CHIL @I155@
+1   CHIL @I178@
+1   CHIL @I179@
+1   CHIL @I180@
+1   CHIL @I181@
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 07:59
+
+0 @F62@ FAM
+1   HUSB @I182@
+2     _PREF Y
+1   WIFE @I183@
+2     _PREF Y
+1   MARR
+2     DATE 1599
+2     PLAC , , , England
+1   CHIL @I156@
+2     _PREF Y
+1   CHIL @I184@
+1   CHIL @I185@
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 08:00
+
+0 @F69@ FAM
+1   HUSB @I164@
+2     _PREF Y
+1   MARR
+2     DATE 1668
+2     PLAC , Anne Arundel, Maryland
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 20:44
+
+0 @F73@ FAM
+1   HUSB @I148@
+1   MARR
+2     DATE 1689
+2     PLAC A.a. Co., Md
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:27
+
+0 @F57@ FAM
+1   HUSB @I144@
+2     _PREF Y
+1   WIFE @I147@
+1   MARR
+2     DATE 1665
+2     PLAC , , Anne Arundel, Md
+1   CHIL @I148@
+2     _PREF Y
+1   CHIL @I149@
+1   CHIL @I150@
+1   CHIL @I151@
+1   CHIL @I152@
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 12:28
+
+0 @F59@ FAM
+1   HUSB @I155@
+2     _PREF Y
+1   WIFE @I156@
+2     _PREF Y
+1   MARR
+2     DATE 1631
+2     PLAC England
+1   CHIL @I157@
+2     _PREF Y
+1   CHIL @I158@
+1   CHIL @I159@
+1   CHIL @I160@
+1   CHIL @I161@
+1   CHIL @I162@
+1   CHIL @I163@
+1   CHIL @I164@
+1   CHIL @I145@
+1   CHIL @I165@
+1   CHIL @I166@
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:28
+
+0 @F64@ FAM
+1   WIFE @I158@
+2     _PREF Y
+1   MARR
+2     DATE 1638
+2     PLAC , , Md
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 21:02
+
+0 @F63@ FAM
+1   HUSB @I157@
+2     _PREF Y
+1   MARR
+2     DATE 1667
+2     PLAC Anne Arundel Co., Md
+1   CHAN
+2     DATE 13 Dec 2004
+3       TIME 21:09
+
+0 @F72@ FAM
+1   MARR
+2     DATE Abt 1619
+2     PLAC A.a. Co., Md
+1   CHIL @I147@
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 06:56
+
+0 @F66@ FAM
+1   HUSB @I161@
+2     _PREF Y
+1   MARR
+2     DATE 1658
+2     PLAC , Anne Arundel, Maryland
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:19
+
+0 @F68@ FAM
+1   HUSB @I163@
+2     _PREF Y
+1   MARR
+2     DATE 1670-1671
+2     PLAC , Norfolk, Virginia
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:25
+
+0 @F50@ FAM
+1   HUSB @I144@
+2     _PREF Y
+1   WIFE @I145@
+2     _PREF Y
+1   MARR
+2     DATE Bef 19 1664 Sep
+2     PLAC , , Md.
+1   CHIL @I146@
+2     _PREF Y
+1   CHIL @I84@
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+
+0 @F58@ FAM
+1   HUSB @I153@
+2     _PREF Y
+1   WIFE @I154@
+2     _PREF Y
+1   CHIL @I144@
+2     _PREF Y
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:27
+
+0 @F70@ FAM
+1   HUSB @I166@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1650
+2     PLAC , , Virginia
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:29
+
+0 @F67@ FAM
+1   WIFE @I162@
+2     _PREF Y
+1   MARR
+2     DATE 1666-1668
+2     PLAC Annapolis, Anne Arundle, Md
+1   CHAN
+2     DATE 14 Dec 2004
+3       TIME 23:30
+
+0 @F96@ FAM
+1   WIFE @I56@
+2     _PREF Y
+1   MARR
+2     DATE 1731
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F98@ FAM
+1   WIFE @I58@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F100@ FAM
+1   WIFE @I60@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F99@ FAM
+1   WIFE @I59@
+2     _PREF Y
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F93@ FAM
+1   HUSB @I54@
+2     _PREF Y
+1   MARR
+2     DATE 3 Dec 1737
+2     PLAC ., Calvert, MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+
+0 @F92@ FAM
+1   HUSB @I54@
+2     _PREF Y
+1   MARR
+2     DATE 17 Feb 1725
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+
+0 @F22@ FAM
+1   HUSB @I53@
+2     _PREF Y
+1   WIFE @I98@
+2     _PREF Y
+1   MARR
+2     DATE 17 Feb 1726
+2     PLAC ., Prince George, MD.
+1   CHIL @I99@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I100@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I91@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I101@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I102@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I103@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I104@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I105@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F14@ FAM
+1   WIFE @I51@
+2     _PREF Y
+1   MARR
+2     DATE 1716
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F95@ FAM
+1   WIFE @I56@
+2     _PREF Y
+1   MARR
+2     DATE 1724
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F16@ FAM
+1   HUSB @I52@
+2     _PREF Y
+1   MARR
+2     DATE 10 Jun 1725
+2     PLAC Prince George County, Maryland
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F17@ FAM
+1   HUSB @I52@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1768
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F106@ FAM
+1   HUSB @I69@
+2     _PREF Y
+1   MARR
+2     DATE 1695
+2     PLAC St. Barnalas, Queen Ann, MD.
+1   CHAN
+2     DATE 20 Jun 2002
+3       TIME 06:31
+
+0 @F10@ FAM
+1   HUSB @I50@
+1   WIFE @I27@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1695
+2     PLAC ., Prince George, MD.
+1   CHIL @I51@
+2     _STAT Father:Natural, Mother:Natural
+2     _PREF Y
+1   CHIL @I52@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I53@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I54@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I55@
+1   CHIL @I56@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I57@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I58@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I59@
+2     _STAT Father:Natural, Mother:Natural
+1   CHIL @I60@
+2     _STAT Father:Natural, Mother:Natural
+1   CHAN
+2     DATE 23 Jun 2002
+3       TIME 22:33
+
+0 @F107@ FAM
+1   HUSB @I70@
+2     _PREF Y
+1   MARR
+2     DATE Bef 1705
+2     PLAC ., , MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 @F105@ FAM
+1   HUSB @I68@
+2     _PREF Y
+1   MARR
+2     DATE Abt 1698
+2     PLAC ., Prince George, MD.
+1   CHAN
+2     DATE 7 Jan 2002
+3       TIME 20:43
+
+0 TRLR

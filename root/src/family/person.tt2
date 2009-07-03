@@ -1,0 +1,26 @@
+[% META title = 'prather.org: Family Member' %]
+<h2>[% person.given_names %] [% person.surname%]</h2>
+<a href="[% c.uri_for('/family/member', person.xref)%]?format=foaf"><img src="/static/images/foafTiny.gif" border="0" alt="FOAF!"/></a>
+<dl>
+<dt>Born</dt><dd>[% person.get_value('birth', 'date')%] in [% person.get_value('birth', 'place')%]</dd>
+<dt>Died</dt><dd>[% person.get_value('death', 'date')%] at [% person.get_value('death', 'place')%]</dd>
+<dt>Father</dt><dd><a href="[% c.uri_for('/family/member', person.father.xref)%]">[% person.father.cased_name %]</a></dd>
+<dt>Mother</dt><dd><a href="[% c.uri_for('/family/member', person.mother.xref)%]">[% person.mother.cased_name %]</a></dd>
+<dt>Spouses</dt>
+<dd>
+    <ul>
+    [% FOR spouse IN person.spouse %]
+    <li><a href="[% c.uri_for('/family/member', spouse.xref)%]">[% spouse.cased_name %]</a></li>
+    [% END %]
+    </ul>
+</dd>
+
+<dt>Children</dt>
+<dd>
+    <ul>
+    [% FOR child IN person.children %]
+    <li><a href="[% c.uri_for('/family/member', child.xref)%]">[% child.cased_name %]</a></li>
+    [% END %]
+    </ul>
+</dd>
+</dl>

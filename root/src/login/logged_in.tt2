@@ -1,0 +1,6 @@
+Welcome <a href="[% c.user.url %]">[% c.user.display %]</a>.
+<ul>
+<li>[% c.user.rss %]
+<li>[% c.user.atom %]
+<li>[% c.user.foaf %]
+</ul>

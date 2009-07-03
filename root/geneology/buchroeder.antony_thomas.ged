@@ -1,0 +1,708 @@
+0 HEAD
+1 SOUR Legacy
+2 VERS 4.0
+2 NAME Legacy (R)
+2 CORP Millennia Corp.
+3 ADDR PO Box 1800
+4 CONT Duvall, WA 98019
+1 DEST Legacy
+1 DATE 2 Jan 2005
+1 SUBM @S0@
+1 FILE GEDCOM.ged
+1 GEDC
+2 VERS
+2 FORM LINEAGE_LINKED
+1 CHAR ANSI
+0 @I35258@ INDI
+1 NAME Thomas /Prater/
+2 GIVN Thomas
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1573
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 CHR
+2 DATE 6 May 1573
+2 PLAC St. Bernard's Par., co.Wilts, ENG
+1 DEAT
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 EVEN
+2 TYPE Alt. Birth
+2 DATE 6 May 1573
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 EVEN
+2 TYPE Alt. Death
+2 DATE 1628
+2 PLAC Eaton Water, Wiltshire, Eng.
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 07:16
+1 FAMS @F3439@
+1 FAMC @F4987@
+0 @I35875@ INDI
+1 NAME William /Prater/
+2 GIVN William
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE 6 Jun 1574
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 DEAT
+2 DATE After 2 Nov 1601
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F4987@
+0 @I35889@ INDI
+1 NAME Ferdinando /Prater/
+2 GIVN Ferdinando
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1576
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 DEAT
+2 DATE After 29 Sep 1592
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F4987@
+0 @I35903@ INDI
+1 NAME Elizabeth /Prater/
+2 GIVN Elizabeth
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE 26 Jun 1575
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F4987@
+0 @I35916@ INDI
+1 NAME George /Prater/
+2 GIVN George
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1577
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 CHR
+2 DATE 10 Jul 1577
+2 PLAC Stanton, St. Bernard Church, co.Wilts, ENG
+1 DEAT
+2 DATE 1578
+1 BURI
+2 DATE 8 Mar 1578
+2 PLAC Staunton, St. Bernard, co.Wilts, ENG
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 07:18
+1 FAMC @F4987@
+0 @I35969@ INDI
+1 NAME Elizabeth /Winter/
+2 GIVN Elizabeth
+2 SURN Winter
+1 SEX F
+1 BIRT
+2 PLAC Latton, Wiltshire, England
+1 DEAT
+2 PLAC Prob. Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F6502@
+1 FAMS @F6640@
+0 @I36076@ INDI
+1 NAME William /Prater/
+2 GIVN William
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE 1450
+2 PLAC Eaton Water, Wiltshire, Eng.
+1 DEAT
+2 PLAC Inglesham, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F8120@
+1 FAMC @F18878@
+0 @I36089@ INDI
+1 NAME Elene /Kingston/
+2 GIVN Elene
+2 SURN Kingston
+1 SEX F
+1 BIRT
+2 DATE Abt 1493
+2 PLAC Prob. Painswick, Gloucester, Eng.
+1 DEAT
+2 DATE Abt 1557
+2 PLAC Inglesham, Wiltshire, Eng.
+1 BURI
+2 PLAC Prater Chancel, Inglesham Church, co.Wilts, ENG
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 06:51
+1 FAMS @F15221@
+1 FAMC @F22415@
+0 @I36102@ INDI
+1 NAME William /Prater/
+2 GIVN William
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Between 1480-1496
+2 PLAC Inglesham, Wiltshire, Eng.
+1 DEAT
+2 PLAC Bremhill, Wiltshire, Eng.
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 06:48
+1 FAMS @F445@
+1 FAMC @F8120@
+0 @I36116@ INDI
+1 NAME Richard /Prater/
+2 GIVN Richard
+2 SURN Prater
+2 NSFX Esq., of Nunney Castle
+1 TITL Esq., of Nunney Castle
+1 SEX M
+1 BIRT
+2 DATE Abt 1540
+2 PLAC Latton Manor, Wiltshire, Eng.
+1 DEAT
+2 DATE 18 May 1580
+2 PLAC Nunney, Somerset, Eng.
+1 BURI
+2 DATE 18 May 1580
+2 PLAC Nunney Chapel, Somerset, England
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 06:56
+1 FAMS @F6694@
+1 FAMC @F8133@
+0 @I36142@ INDI
+1 NAME Jane /Plott/
+2 GIVN Jane
+2 SURN Plott
+1 SEX F
+1 BIRT
+2 DATE 1515
+2 PLAC Blewberye Or Blueberry, Berkshire, Eng.
+1 DEAT
+2 DATE 5 Jan 1587
+2 PLAC Latton, Wiltshire, Eng.
+1 BURI
+2 DATE 5 Feb 1587
+2 PLAC Latton Church, Co. Wilts, England
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F8133@
+1 FAMC @F3113@
+0 @I36155@ INDI
+1 NAME George /Prater/
+2 GIVN George
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1510
+2 PLAC Inglesham Or Eaton Water, Wiltshire, Eng.
+1 DEAT
+2 DATE 1 Feb 1564
+2 PLAC Nunney, Somerset, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F8133@
+1 FAMC @F15221@
+0 @I36173@ INDI
+1 NAME Anthony Thomas /Prater/
+2 GIVN Anthony Thomas
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE 1545
+2 PLAC Near Latton, Wiltshire, Eng.
+1 DEAT
+2 DATE Bef 21 Aug 1593
+2 PLAC Stanton St. Bernard, Wiltshire, Eng.
+1 BURI
+2 DATE 21 Aug 1593
+2 PLAC Stanton St. Bernard, Wiltshire, Eng
+1 CHAN
+2 DATE 16 Jun 2002
+3 TIME 16:17
+1 FAMS @F4987@
+1 FAMS @F6640@
+1 FAMC @F8133@
+0 @I36199@ INDI
+1 NAME Sir. Richard /Plott/
+2 GIVN Sir. Richard
+2 SURN Plott
+1 SEX M
+1 BIRT
+2 DATE 1514
+2 PLAC Blueberry, Berkshire, Eng
+1 DEAT
+2 PLAC Blueberry, Berkshire, Eng
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F3113@
+0 @I36212@ INDI
+1 NAME Judith /Ivye/
+2 GIVN Judith
+2 SURN Ivye
+1 SEX F
+1 BIRT
+2 DATE 1550
+2 PLAC West Kingston, Wiltshire, Eng.
+1 DEAT
+2 DATE 16 Feb 1578
+2 PLAC West Kingston, Wiltshire, Eng.
+1 BURI
+2 PLAC Ivye Section, South Aisle, Floor of West Kingston Church, co.Wilts, ENG
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 07:15
+1 FAMS @F4987@
+1 FAMC @F6653@
+0 @I36225@ INDI
+1 NAME Miss. Geraldine /Plott Nee Unkn/
+2 GIVN Miss. Geraldine
+2 SURN Plott Nee Unkn
+1 SEX F
+1 BIRT
+2 DATE 1514
+2 PLAC Blueberry, Berkshire, Eng
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F3113@
+0 @I36239@ INDI
+1 NAME Alice /Carew/
+2 GIVN Alice
+2 SURN Carew
+1 SEX F
+1 BIRT
+2 DATE 1455
+2 PLAC Prob. Cornwall Or Devon, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F8120@
+1 FAMC @F22417@
+0 @I36252@ INDI
+1 NAME John /Prater/
+2 GIVN John
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Between 1480-1492
+2 PLAC Prob. Eaton Water Or Inglesham, Wiltshire, Eng.
+1 DEAT
+2 DATE Bef 20 Jun 1547
+2 PLAC Inglesham, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F15221@
+1 FAMC @F8120@
+0 @I36279@ INDI
+1 NAME Elinor /Prater/
+2 GIVN Elinor
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE Abt 1542
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT
+2 DATE Child
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F8133@
+0 @I36295@ INDI
+1 NAME George /Prater/
+2 GIVN George
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE 1540
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT
+2 DATE 25 Apr 1591
+2 PLAC Wiltshire, Eng.
+1 BURI
+2 PLAC Latton Church, Wiltshire, England
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F8133@
+0 @I36362@ INDI
+1 NAME Nicholas /Prater/
+2 GIVN Nicholas
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Between 1550-1560
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT
+2 DATE Abt 23 Jun 1589
+2 PLAC London, Middlesex, Eng.
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 06:53
+1 FAMC @F8133@
+0 @I36375@ INDI
+1 NAME Bartholomew /Prater/
+2 GIVN Bartholomew
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1560
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F10121@
+1 FAMC @F8133@
+0 @I36389@ INDI
+1 NAME Margaret /Prater/
+2 GIVN Margaret
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE Abt 1564
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F6545@
+1 FAMC @F8133@
+0 @I36402@ INDI
+1 NAME Alis /Prater/
+2 GIVN Alis
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE 1559
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F6529@
+1 FAMC @F8133@
+0 @I36418@ INDI
+1 NAME John /Prater/
+2 GIVN John
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE 1546
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F8133@
+0 @I36445@ INDI
+1 NAME Dorothy /Prater/
+2 GIVN Dorothy
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE 1548
+2 PLAC Latton, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F6474@
+1 FAMC @F8133@
+0 @I36458@ INDI
+1 NAME John /Prater/
+2 GIVN John
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1520
+2 PLAC Inglesham, Wiltshire, Eng.
+1 DEAT Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMC @F15221@
+0 @I36485@ INDI
+1 NAME Joane /Prater/
+2 GIVN Joane
+2 SURN Prater
+1 SEX F
+1 BIRT
+2 DATE Abt 1518
+2 PLAC Inglesham Or Eaton Water, Wiltshire, Eng.
+1 DEAT
+2 PLAC Prob. Inglesham Or Swindon, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F6681@
+1 FAMC @F15221@
+0 @I401020@ INDI
+1 NAME George /Prater/
+2 GIVN George
+2 SURN Prater
+1 SEX M
+1 BIRT
+2 DATE Abt 1589
+2 PLAC Stanton Manor, St. Bernard's Par., co.Wilts, ENG
+1 DEAT Y
+1 CHAN
+2 DATE 3 Jun 2002
+3 TIME 07:24
+1 FAMC @F6640@
+0 @I55699@ INDI
+1 NAME Williamus /Prater/
+2 GIVN Williamus
+2 SURN Prater
+1 SEX M
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F18878@
+0 @I66958@ INDI
+1 NAME William /Kingston/
+2 GIVN William
+2 SURN Kingston
+1 SEX M
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F22415@
+0 @I66959@ INDI
+1 NAME William /Carew/
+2 GIVN William
+2 SURN Carew
+1 SEX M
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+1 FAMS @F22417@
+0 @F10121@ FAM
+1 HUSB @I36375@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F15221@ FAM
+1 HUSB @I36252@
+2 _PREF Y
+1 WIFE @I36089@
+2 _PREF Y
+1 MARR
+2 DATE Abt 1515
+2 PLAC Inglesham, Wiltshire, Eng.
+1 CHIL @I36155@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHIL @I36485@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36458@
+2 _STAT Father:Natural, Mother:Natural
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F18878@ FAM
+1 HUSB @I55699@
+2 _PREF Y
+1 CHIL @I36076@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F22415@ FAM
+1 HUSB @I66958@
+2 _PREF Y
+1 CHIL @I36089@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F22417@ FAM
+1 HUSB @I66959@
+2 _PREF Y
+1 CHIL @I36239@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F3113@ FAM
+1 HUSB @I36199@
+2 _PREF Y
+1 WIFE @I36225@
+2 _PREF Y
+1 CHIL @I36142@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F3439@ FAM
+1 HUSB @I35258@
+2 _PREF Y
+1 MARR
+2 DATE 4 Jun 1599
+2 PLAC Clyffe Papard Ch., Shefford Magna, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F445@ FAM
+1 HUSB @I36102@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F4987@ FAM
+1 HUSB @I36173@
+2 _PREF Y
+1 WIFE @I36212@
+2 _PREF Y
+1 MARR
+2 DATE 1566
+2 PLAC West Kingston, Wiltshire, Eng.
+1 CHIL @I35258@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHIL @I35875@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I35903@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I35889@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I35916@
+2 _STAT Father:Natural, Mother:Natural
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6474@ FAM
+1 WIFE @I36445@
+2 _PREF Y
+1 MARR
+2 DATE 29 Sep 1569
+2 PLAC St. Bernard Ch, Stanton, Wiltshire, England
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6502@ FAM
+1 WIFE @I35969@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6529@ FAM
+1 WIFE @I36402@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6545@ FAM
+1 WIFE @I36389@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6640@ FAM
+1 HUSB @I36173@
+1 WIFE @I35969@
+1 MARR
+2 DATE 10 Nov 1585
+1 CHIL @I401020@
+2 _PREF Y
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6653@ FAM
+1 MARR
+2 DATE Abt 1549
+2 PLAC , , England
+1 CHIL @I36212@
+2 _STAT Father:Natural, Mother:Natural
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6681@ FAM
+1 WIFE @I36485@
+2 _PREF Y
+1 MARR
+2 PLAC Prob. Swindon Church Swindon, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F6694@ FAM
+1 HUSB @I36116@
+2 _PREF Y
+1 MARR
+2 DATE Abt 1561
+2 PLAC Prob. Latton, Wiltshire, Eng.
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F8120@ FAM
+1 HUSB @I36076@
+2 _PREF Y
+1 WIFE @I36239@
+2 _PREF Y
+1 MARR
+2 PLAC England
+1 CHIL @I36102@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHIL @I36252@
+2 _STAT Father:Natural, Mother:Natural
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 @F8133@ FAM
+1 HUSB @I36155@
+2 _PREF Y
+1 WIFE @I36142@
+2 _PREF Y
+1 MARR
+2 DATE Abt 1534
+2 PLAC Shefford Magna, Wiltshire, Eng.
+1 CHIL @I36116@
+2 _STAT Father:Natural, Mother:Natural
+2 _PREF Y
+1 CHIL @I36295@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36279@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36173@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36418@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36445@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36362@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36402@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36375@
+2 _STAT Father:Natural, Mother:Natural
+1 CHIL @I36389@
+2 _STAT Father:Natural, Mother:Natural
+1 CHAN
+2 DATE 7 Jan 2002
+3 TIME 20:43
+0 TRLR
