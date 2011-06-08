@@ -1,0 +1,24 @@
+[% WRAPPER common/page.tt2
+    title = 'Prather Family Tree' %]
+
+<h3>My Grandparents</h3>
+<h4>Paternal</h4>
+<nav>
+    <ul>
+        [% person = gedcom.get_individual('William Dwight /Prather/')%]
+        <li><a href="[% c.uri_for('/family/member',person.xref) %]">[% person.cased_name %]</a></li>
+        [% person = gedcom.get_individual('Mary Louise /Urton/')%]
+        <li><a href="[% c.uri_for('/family/member',person.xref) %]">[% person.cased_name %]</a></li>
+    </ul>
+</nav>
+<h4>Maternal</h4>
+<nav>
+    <ul>
+        [% person = gedcom.get_individual('William Amples /Oates/')%]
+        <li><a href="[% c.uri_for('/family/member',person.xref) %]">[% person.cased_name %]</a></li>
+        [% person = gedcom.get_individual('Mildred Frances /Robertson/')%]
+        <li><a href="[% c.uri_for('/family/member',person.xref) %]">[% person.cased_name %]</a></li>
+    </ul>
+</nav>
+
+[% END %]

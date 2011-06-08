@@ -1,6 +1,33 @@
+[% WRAPPER common/page.tt2
+    title = 'Prather Family Tree' %]
 
-<p>Welcome to prather.org. Right now there is just a bunch of old stuff lying
-about but I&#8217;m working on actually creating something useful. Please bear
-with me for a little bit until I get the plans at least sort of working.</p>
+<h2>Welcome</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem
+ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit
+amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+officia deserunt mollit anim id est laborum.</p>
 
-<p>-Chris</p>
+
+<h3>Important People</h3>
+<dl>
+[% person = rest.gedcom.get_individual('Guilliumus Williamus Johonnie /Prater/')%]
+<dt>Earliest Prater</dt><dd> <a href="[% c.uri_for('/person',person.xref)%]">[% person.given_names %] [% person.surname %]</a></dd>
+[% person = rest.gedcom.get_individual('I36541')%]
+<dt>First Prater in America</dt><dd><a href="[% c.uri_for('/person',person.xref)%]">[% person.given_names %] [% person.surname %]</a></dd>
+</ul>
+
+[% END %]

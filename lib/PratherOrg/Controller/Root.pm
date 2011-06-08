@@ -1,54 +1,49 @@
 package PratherOrg::Controller::Root;
+use Moose;
+use namespace::autoclean;
 
-use strict;
-use warnings;
-use base 'Catalyst::Controller';
+BEGIN { extends 'Catalyst::Controller::REST' }
 
-#
-# Sets the actions in this controller to be registered with no prefix
-# so they function identically to actions created in MyApp.pm
-#
-__PACKAGE__->config->{namespace} = '';
+__PACKAGE__->config(
+    map => {
+        'text/html'           => [ 'View', 'TT' ],
+        'application/rdf+xml' => [ 'View', 'FOAF' ],
+        'text/xml'            => [ 'View', 'FOAF' ],
+    }
+);
 
-=head1 NAME
+sub index : Path('/') ActionClass('REST') {
+}
 
-PratherOrg::Controller::Root - Root Controller for PratherOrg
-
-=head1 DESCRIPTION
-
-[enter your description here]
-
-=head1 METHODS
-
-=cut
-
-=head2 default
-
-=cut
-
-sub default : Private {
+sub index_GET {
     my ( $self, $c ) = @_;
     $c->stash->{template} = 'index.tt2';
+    $self->status_ok( $c, entity => { gedcom => $c->model('Gedcom'), } );
 }
 
-=head2 end
-
-Attempt to render a view, if needed.
-
-=cut 
-
-sub end : ActionClass('RenderView') {
+sub person : Path('/person') Args(1) ActionClass('REST') {
 }
 
-=head1 AUTHOR
+sub person_GET {
+    my ( $self, $c, $xref ) = @_;
+    $c->stash->{template} = 'person.tt2';
+    $self->status_ok(
+        $c,
+        entity => {
+            gedcom => $c->model('Gedcom'),
+            person => $c->model('Gedcom')->get_individual($xref),
+            copy   => 'Not Available.',
+        }
+    );
+}
 
-Chris Prather
+sub about : Path('/about') ActionClass('REST') {
+}
 
-=head1 LICENSE
-
-This library is free software, you can redistribute it and/or modify
-it under the same terms as Perl itself.
-
-=cut
+sub about_GET {
+    my ( $self, $c ) = @_;
+    $self->status_ok( $c, entity => { gedcom => $c->model('Gedcom') } );
+}
 
 1;
+__END__

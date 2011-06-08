@@ -1,7 +1,6 @@
 package PratherOrg;
-
-use strict;
-use warnings;
+use Moose;
+use namespace::autoclean;
 
 use Catalyst::Runtime '5.70';
 
@@ -27,6 +26,14 @@ use Catalyst qw(
 );
 
 our $VERSION = '0.01';
+
+use CatalystX::RoleApplicator;
+
+__PACKAGE__->apply_request_class_roles(
+    qw[
+      Catalyst::TraitFor::Request::REST::ForBrowsers
+      ]
+);
 
 # Configure the application.
 #
