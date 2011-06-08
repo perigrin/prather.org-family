@@ -14,13 +14,13 @@ GetOptions(
     'nonew|force'    => \$force,
     'mech|mechanize' => \$mech,
     'help|?'         => \$help
- );
+);
 
 pod2usage(1) if ( $help || !$ARGV[0] );
 
 my $helper = Catalyst::Helper->new( { '.newfiles' => !$force, mech => $mech } );
 
-pod2usage(1) unless $helper->mk_component( 'PratherOrg', @ARGV );
+pod2usage(1) unless $helper->mk_component( 'PratherOrg::Web', @ARGV );
 
 1;
 

@@ -3,8 +3,8 @@ use strict;
 use warnings;
 use lib qq(lib);
 use local::lib;
-use PratherOrg;
+use PratherOrg::Web;
 
-PratherOrg->setup_engine('PSGI');
-my $app = sub { PratherOrg->run(@_) };
+PratherOrg::Web->setup_engine('PSGI');
+my $app = sub { PratherOrg::Web->run(@_) };
 
